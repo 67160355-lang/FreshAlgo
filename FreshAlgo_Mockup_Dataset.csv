@@ -1,0 +1,801 @@
+﻿Batch_ID,Date_Time,Customer_Segment,Customer_Name,Fruit_Type,Total_Weight_KG,Sorting_Speed_Units_Min,Brix_Value,Internal_Defect_Detected,Final_Grade,Rejection_Status,Pricing_Model,Revenue_THB,Labor_Hours_Saved
+BATCH-2025-001,2025-10-01 08:03:31,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),1545.9,173,16.6,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,3960,18.9
+BATCH-2025-002,2025-10-01 11:38:05,Agricultural Co-op,Trat Orchard Alliance Co-op,Durian,3689.6,57,12.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,13020,73.2
+BATCH-2025-003,2025-10-02 09:03:36,Large Orchard,Trat Mangosteen Highland Farm,Mangosteen,6759.6,294,14.8,No,Grade B (Local Market),Passed,Machine Purchase,4658000,109.9
+BATCH-2025-004,2025-10-02 10:06:20,Large Orchard,Uttaradit Premium Orchard,Durian,3043.5,60,14.3,No,Grade B (Local Market),Passed,Software Subscription,20400,61.9
+BATCH-2025-005,2025-10-02 14:38:31,Premium Exporter,Bangkok Verdant Export,Durian,9071.8,40,17.9,No,Grade A (Premium Export),Passed,Software Subscription,27200,183.0
+BATCH-2025-006,2025-10-02 18:04:58,Agricultural Co-op,Trat Orchard Alliance Co-op,Mangosteen,12294.2,284,13.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,28570,204.8
+BATCH-2025-007,2025-10-02 19:48:13,Premium Exporter,Chanthaburi Prime Export,Durian,7002.4,37,19.0,No,Grade A (Premium Export),Passed,Machine Purchase,3296000,140.9
+BATCH-2025-008,2025-10-03 09:31:34,Agricultural Co-op,Yala Highland Fruit Co-op,Mangosteen,9879.6,223,15.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,25690,152.9
+BATCH-2025-009,2025-10-03 14:45:35,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),808.7,211,16.1,No,Grade A (Premium Export),Passed,Software Subscription,10900,10.2
+BATCH-2025-010,2025-10-03 16:03:44,Service Startup,Harvest2Grade Tech,Mangosteen,609.2,307,14.6,No,Grade B (Local Market),Passed,Software Subscription,10600,9.8
+BATCH-2025-011,2025-10-04 10:55:24,Agricultural Co-op,Surat Thani Fruit Cooperative,Durian,11239.5,58,15.4,Yes,Reject,Rejection Risk Defected,Software Subscription,16500,227.4
+BATCH-2025-012,2025-10-05 10:13:49,Agricultural Co-op,Yala Highland Fruit Co-op,Mangosteen,6558.3,304,13.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,13490,104.0
+BATCH-2025-013,2025-10-05 11:09:11,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),13331.4,254,14.0,No,Grade B (Local Market),Passed,Software Subscription,17900,173.2
+BATCH-2025-014,2025-10-05 13:29:33,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),7998.3,214,17.2,No,Grade A (Premium Export),Passed,SLA Contract,101900,103.3
+BATCH-2025-015,2025-10-06 09:34:15,Agricultural Co-op,Surat Thani Fruit Cooperative,Mangosteen,13484.7,223,14.6,No,Grade B (Local Market),Passed,Software Subscription,14600,216.3
+BATCH-2025-016,2025-10-06 10:30:41,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Durian,7909.6,55,17.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,24000,156.0
+BATCH-2025-017,2025-10-06 14:52:26,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),10249.3,233,12.8,No,Grade B (Local Market),Passed,Software Subscription,14300,126.6
+BATCH-2025-018,2025-10-07 17:07:43,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Durian,5370.4,55,12.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,19020,101.7
+BATCH-2025-019,2025-10-08 07:49:39,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),1801.6,259,14.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,4320,22.1
+BATCH-2025-020,2025-10-08 11:19:08,Premium Exporter,Thai Royal Harvest International,Durian,8030.5,46,16.8,No,Grade A (Premium Export),Passed,SLA Contract,97800,155.8
+BATCH-2025-021,2025-10-08 17:24:27,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),850.9,192,17.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1710,11.0
+BATCH-2025-022,2025-10-09 10:06:40,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),1753.2,192,14.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3770,21.6
+BATCH-2025-023,2025-10-09 10:23:29,Agricultural Co-op,Nakhon Sawan Mango Co-op,Durian,14972.0,51,16.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,51850,295.3
+BATCH-2025-024,2025-10-10 06:18:28,Large Orchard,Khao Kitchakut Mango Estate,Durian,3996.9,52,16.8,No,Grade A (Premium Export),Passed,SLA Contract,51100,79.3
+BATCH-2025-025,2025-10-13 13:14:18,Agricultural Co-op,Loei Garden Fruit Co-op,Mango (Mahachanok),4184.0,167,16.8,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,10490,51.3
+BATCH-2025-026,2025-10-13 14:15:14,Large Orchard,Rayong Golden Garden Orchard,Durian,7520.9,41,17.4,No,Grade A (Premium Export),Passed,Software Subscription,24800,143.3
+BATCH-2025-027,2025-10-13 15:36:19,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),3448.0,182,17.6,No,Grade A (Premium Export),Passed,Software Subscription,16800,44.3
+BATCH-2025-028,2025-10-14 08:42:51,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),1940.6,182,16.0,No,Grade A (Premium Export),Passed,Software Subscription,11000,25.1
+BATCH-2025-029,2025-10-14 19:45:23,Large Orchard,Phrae Sunrise Mango Farm,Mangosteen,1887.4,261,15.4,No,Grade B (Local Market),Passed,Software Subscription,17600,29.2
+BATCH-2025-030,2025-10-15 06:45:41,Service Startup,"Orchard-on-Demand Co., Ltd.",Durian,1036.7,53,15.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,3320,20.0
+BATCH-2025-031,2025-10-16 07:35:47,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),7214.7,255,17.5,Yes,Reject,Rejection Risk Defected,Machine Purchase,10300,93.2
+BATCH-2025-032,2025-10-16 08:59:00,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),2297.0,213,17.7,No,Grade A (Premium Export),Passed,Machine Purchase,9300,28.0
+BATCH-2025-033,2025-10-17 09:18:40,Premium Exporter,Lanna Select Fruits Export,Durian,9464.1,43,16.4,No,Grade A (Premium Export),Passed,SLA Contract,102700,192.7
+BATCH-2025-034,2025-10-17 15:36:58,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),7848.2,259,16.8,No,Grade A (Premium Export),Passed,SLA Contract,78600,96.6
+BATCH-2025-035,2025-10-19 11:57:35,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,2214.8,43,15.1,No,Grade B (Local Market),Passed,SLA Contract,83400,43.5
+BATCH-2025-036,2025-10-19 17:57:30,Large Orchard,Trat Mangosteen Highland Farm,Durian,7060.3,49,15.6,No,Grade A (Premium Export),Passed,Machine Purchase,8000,143.6
+BATCH-2025-037,2025-10-20 16:04:08,Service Startup,QuickSort Mobile Service,Durian,1359.3,48,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,4190,27.5
+BATCH-2025-038,2025-10-20 18:12:04,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mangosteen,10317.8,303,14.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,29250,170.7
+BATCH-2025-039,2025-10-21 20:28:45,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,8787.5,59,17.1,No,Grade A (Premium Export),Passed,Machine Purchase,2067000,173.0
+BATCH-2025-040,2025-10-22 08:27:02,Service Startup,"Orchard-on-Demand Co., Ltd.",Durian,1023.8,45,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3730,20.5
+BATCH-2025-041,2025-10-23 15:05:52,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,7906.6,52,18.5,No,Grade A (Premium Export),Passed,SLA Contract,80000,150.7
+BATCH-2025-042,2025-10-25 08:07:22,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),3819.3,240,17.1,No,Grade A (Premium Export),Passed,Machine Purchase,2075000,46.5
+BATCH-2025-043,2025-10-25 08:50:52,Large Orchard,Phrae Sunrise Mango Farm,Mango (Mahachanok),7037.1,180,19.5,Yes,Reject,Rejection Risk Defected,Software Subscription,22800,87.8
+BATCH-2025-044,2025-10-26 10:18:01,Large Orchard,Rayong Golden Garden Orchard,Mangosteen,1751.8,238,15.1,No,Grade B (Local Market),Passed,Software Subscription,17200,27.3
+BATCH-2025-045,2025-10-28 09:23:52,Agricultural Co-op,Rayong Durian Farmers Co-op,Mangosteen,6773.0,329,13.4,No,Grade B (Local Market),Passed,SLA Contract,43400,107.6
+BATCH-2025-046,2025-10-30 08:35:44,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),11503.0,230,16.5,No,Grade A (Premium Export),Passed,SLA Contract,50900,149.7
+BATCH-2025-047,2025-10-30 09:21:47,Large Orchard,Trat Mangosteen Highland Farm,Durian,6873.6,56,18.5,No,Grade A (Premium Export),Passed,Machine Purchase,10800,137.0
+BATCH-2025-048,2025-10-30 13:23:03,Large Orchard,Uttaradit Premium Orchard,Durian,4216.4,60,19.5,No,Grade A (Premium Export),Passed,Software Subscription,17200,80.8
+BATCH-2025-049,2025-10-31 17:13:03,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),2965.6,224,18.0,No,Grade A (Premium Export),Passed,SLA Contract,78200,36.8
+BATCH-2025-050,2025-11-01 13:08:27,Premium Exporter,Chanthaburi Prime Export,Mangosteen,5969.0,302,17.3,No,Grade A (Premium Export),Passed,Machine Purchase,9100,97.3
+BATCH-2025-051,2025-11-01 14:32:38,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),4291.0,266,17.5,No,Grade A (Premium Export),Passed,SLA Contract,86300,55.5
+BATCH-2025-052,2025-11-01 15:22:05,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),1171.1,187,15.6,No,Grade A (Premium Export),Passed,Software Subscription,15600,14.7
+BATCH-2025-053,2025-11-02 08:31:58,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,9378.7,51,17.9,No,Grade A (Premium Export),Passed,SLA Contract,105700,184.3
+BATCH-2025-054,2025-11-02 11:09:56,Premium Exporter,Thai Royal Harvest International,Mangosteen,9470.3,291,17.6,No,Grade A (Premium Export),Passed,SLA Contract,84300,157.6
+BATCH-2025-055,2025-11-03 08:04:43,Service Startup,QuickSort Mobile Service,Durian,1480.3,50,15.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,5620,28.4
+BATCH-2025-056,2025-11-03 10:55:02,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mangosteen,5132.7,221,15.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,13010,85.7
+BATCH-2025-057,2025-11-04 06:50:50,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),6329.1,255,20.0,No,Grade A (Premium Export),Passed,SLA Contract,71400,82.4
+BATCH-2025-058,2025-11-05 14:37:00,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),720.1,173,14.6,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1600,8.8
+BATCH-2025-059,2025-11-05 15:07:18,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,8128.1,46,18.3,No,Grade A (Premium Export),Passed,Machine Purchase,11400,156.4
+BATCH-2025-060,2025-11-07 09:55:27,Large Orchard,Phrae Sunrise Mango Farm,Durian,5803.2,53,16.6,No,Grade A (Premium Export),Passed,Software Subscription,12400,113.3
+BATCH-2025-061,2025-11-07 10:02:20,Service Startup,FruitFlow Logistics Startup,Durian,609.1,49,15.3,Yes,Reject,Rejection Risk Defected,Software Subscription,8500,11.6
+BATCH-2025-062,2025-11-07 10:38:19,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1408.4,161,14.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3040,17.8
+BATCH-2025-063,2025-11-07 12:16:04,Large Orchard,Chumphon Emerald Orchard,Durian,6570.8,51,16.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,22890,132.6
+BATCH-2025-064,2025-11-07 15:04:38,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),10029.8,175,16.2,No,Grade A (Premium Export),Passed,Machine Purchase,12300,127.1
+BATCH-2025-065,2025-11-07 16:12:24,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),5918.3,164,18.1,No,Grade A (Premium Export),Passed,Software Subscription,17300,73.6
+BATCH-2025-066,2025-11-07 17:04:36,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),799.7,176,17.0,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1580,10.2
+BATCH-2025-067,2025-11-08 13:59:35,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Mangosteen,9346.9,239,18.1,No,Grade A (Premium Export),Passed,Software Subscription,34800,145.3
+BATCH-2025-068,2025-11-08 14:29:19,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),12839.6,227,15.0,No,Grade B (Local Market),Passed,SLA Contract,67200,167.2
+BATCH-2025-069,2025-11-10 16:00:02,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),3538.1,210,19.8,Yes,Reject,Rejection Risk Defected,SLA Contract,42000,44.8
+BATCH-2025-070,2025-11-10 17:34:21,Service Startup,"SortHub Thailand Co., Ltd.",Mangosteen,449.0,321,16.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,960,7.4
+BATCH-2025-071,2025-11-10 17:58:14,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),7259.0,221,17.3,No,Grade A (Premium Export),Passed,Machine Purchase,3900,95.2
+BATCH-2025-072,2025-11-12 08:05:34,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),8082.0,175,13.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,19230,100.9
+BATCH-2025-073,2025-11-12 09:28:04,Large Orchard,Nakhon Si Royal Orchard,Mango (Mahachanok),2528.9,211,19.7,No,Grade A (Premium Export),Passed,SLA Contract,73800,32.0
+BATCH-2025-074,2025-11-12 12:17:29,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Mango (Mahachanok),11581.3,219,17.4,No,Grade A (Premium Export),Passed,Software Subscription,34800,148.5
+BATCH-2025-075,2025-11-12 16:10:54,Premium Exporter,Bangkok Verdant Export,Mango (Mahachanok),8413.2,184,17.4,No,Grade A (Premium Export),Passed,Software Subscription,28200,106.9
+BATCH-2025-076,2025-11-12 16:40:08,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mango (Mahachanok),6495.3,170,17.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,13190,84.3
+BATCH-2025-077,2025-11-12 18:45:58,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),9627.0,194,17.1,No,Grade A (Premium Export),Passed,SLA Contract,72000,124.8
+BATCH-2025-078,2025-11-13 09:04:00,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),5181.1,161,16.8,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,9760,65.4
+BATCH-2025-079,2025-11-14 07:49:35,Agricultural Co-op,Yala Highland Fruit Co-op,Mango (Mahachanok),12056.2,217,16.8,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,30320,150.3
+BATCH-2025-080,2025-11-14 10:21:13,Large Orchard,Nakhon Si Royal Orchard,Mango (Mahachanok),1169.5,176,16.5,No,Grade A (Premium Export),Passed,SLA Contract,78100,14.3
+BATCH-2025-081,2025-11-14 12:47:47,Premium Exporter,Lanna Select Fruits Export,Durian,7979.2,39,17.3,No,Grade A (Premium Export),Passed,SLA Contract,89000,163.0
+BATCH-2025-082,2025-11-16 08:34:48,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mangosteen,4342.5,319,14.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,12250,69.9
+BATCH-2025-083,2025-11-16 12:07:11,Agricultural Co-op,Yala Highland Fruit Co-op,Mangosteen,9397.3,233,13.7,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,24340,153.3
+BATCH-2025-084,2025-11-16 15:41:13,Agricultural Co-op,Rayong Durian Farmers Co-op,Mangosteen,11862.7,282,16.3,No,Grade A (Premium Export),Passed,SLA Contract,52200,194.0
+BATCH-2025-085,2025-11-17 12:29:34,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,5480.7,55,18.3,No,Grade A (Premium Export),Passed,SLA Contract,71500,110.5
+BATCH-2025-086,2025-11-17 22:14:11,Agricultural Co-op,Yala Highland Fruit Co-op,Mango (Mahachanok),8095.5,249,14.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,19130,102.8
+BATCH-2025-087,2025-11-18 11:46:59,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),14155.2,252,14.9,No,Grade B (Local Market),Passed,Software Subscription,16200,173.2
+BATCH-2025-088,2025-11-18 18:37:33,Premium Exporter,Bangkok Verdant Export,Durian,8725.8,42,16.9,No,Grade A (Premium Export),Passed,Software Subscription,33300,170.8
+BATCH-2025-089,2025-11-19 09:38:38,Large Orchard,Uttaradit Premium Orchard,Mango (Mahachanok),7695.5,199,16.7,No,Grade A (Premium Export),Passed,Software Subscription,16100,97.4
+BATCH-2025-090,2025-11-19 17:14:11,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mango (Mahachanok),5276.8,187,13.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,11610,68.3
+BATCH-2025-091,2025-11-19 19:15:14,Agricultural Co-op,Yala Highland Fruit Co-op,Mangosteen,14660.6,325,15.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,37990,239.5
+BATCH-2025-092,2025-11-19 19:43:22,Agricultural Co-op,Surat Thani Fruit Cooperative,Mangosteen,9526.6,230,13.2,No,Grade B (Local Market),Passed,Software Subscription,15200,155.3
+BATCH-2025-093,2025-11-20 08:03:09,Service Startup,FruitFlow Logistics Startup,Durian,986.7,56,15.4,No,Grade B (Local Market),Passed,Software Subscription,11500,18.9
+BATCH-2025-094,2025-11-20 19:50:01,Agricultural Co-op,Trat Orchard Alliance Co-op,Mango (Mahachanok),11729.1,191,14.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,24270,153.4
+BATCH-2025-095,2025-11-21 16:09:15,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),5034.4,192,17.9,No,Grade A (Premium Export),Passed,SLA Contract,102200,65.7
+BATCH-2025-096,2025-11-22 11:16:55,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),9522.0,196,17.9,No,Grade A (Premium Export),Passed,Machine Purchase,7800,117.7
+BATCH-2025-097,2025-11-22 11:48:14,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,1628.9,290,11.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,4570,25.3
+BATCH-2025-098,2025-11-22 13:35:33,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),6928.3,189,13.0,No,Grade B (Local Market),Passed,Software Subscription,11400,86.7
+BATCH-2025-099,2025-11-23 07:11:09,Large Orchard,Suan Thong Durian Orchard,Mangosteen,7610.9,325,13.9,No,Grade B (Local Market),Passed,Machine Purchase,9500,122.1
+BATCH-2025-100,2025-11-23 12:32:32,Premium Exporter,Thai Royal Harvest International,Mangosteen,10545.2,325,17.6,No,Grade A (Premium Export),Passed,SLA Contract,79300,170.7
+BATCH-2025-101,2025-11-23 15:46:31,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),318.9,161,14.7,No,Grade B (Local Market),Passed,Software Subscription,8400,4.0
+BATCH-2025-102,2025-11-25 11:48:42,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),14363.4,260,12.9,No,Grade B (Local Market),Passed,SLA Contract,68900,181.2
+BATCH-2025-103,2025-11-27 11:36:11,Large Orchard,Chumphon Emerald Orchard,Mangosteen,5724.8,327,17.7,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,11540,90.0
+BATCH-2025-104,2025-11-28 07:18:16,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),952.5,215,15.1,No,Grade B (Local Market),Passed,Software Subscription,11500,12.0
+BATCH-2025-105,2025-11-28 08:31:47,Premium Exporter,Bangkok Verdant Export,Mango (Mahachanok),9837.5,179,17.6,No,Grade A (Premium Export),Passed,Software Subscription,33300,120.4
+BATCH-2025-106,2025-11-28 10:06:27,Large Orchard,Nakhon Si Royal Orchard,Mangosteen,4983.9,312,17.5,No,Grade A (Premium Export),Passed,SLA Contract,54100,81.1
+BATCH-2025-107,2025-11-28 14:23:51,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Durian,7756.8,40,14.8,No,Grade B (Local Market),Passed,Machine Purchase,3955000,151.6
+BATCH-2025-108,2025-11-29 10:42:26,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1088.1,186,12.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2820,13.9
+BATCH-2025-109,2025-11-29 12:43:34,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),10848.2,261,16.6,No,Grade A (Premium Export),Passed,SLA Contract,107100,136.6
+BATCH-2025-110,2025-11-29 14:21:19,Service Startup,FruitFlow Logistics Startup,Durian,1631.0,57,14.9,No,Grade B (Local Market),Passed,Software Subscription,9300,31.2
+BATCH-2025-111,2025-11-29 15:17:18,Premium Exporter,Lanna Select Fruits Export,Durian,9788.4,52,17.4,No,Grade A (Premium Export),Passed,SLA Contract,89300,187.4
+BATCH-2025-112,2025-11-30 07:36:23,Large Orchard,Uttaradit Premium Orchard,Mangosteen,1584.4,271,17.9,Yes,Reject,Rejection Risk Defected,Software Subscription,14800,25.6
+BATCH-2025-113,2025-11-30 08:58:02,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),8324.1,250,15.8,Yes,Reject,Rejection Risk Defected,Machine Purchase,11400,103.4
+BATCH-2025-114,2025-12-01 09:19:06,Service Startup,Harvest2Grade Tech,Durian,1696.9,35,15.4,No,Grade B (Local Market),Passed,Software Subscription,10400,34.2
+BATCH-2025-115,2025-12-01 09:42:05,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),9846.5,230,12.5,Yes,Reject,Rejection Risk Defected,SLA Contract,52800,127.9
+BATCH-2025-116,2025-12-01 10:28:43,Service Startup,FruitFlow Logistics Startup,Mangosteen,642.9,258,13.3,No,Grade B (Local Market),Passed,Software Subscription,11900,10.6
+BATCH-2025-117,2025-12-01 11:03:15,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),367.7,244,15.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,810,4.8
+BATCH-2025-118,2025-12-02 14:12:58,Premium Exporter,Thai Royal Harvest International,Durian,7574.4,54,18.0,No,Grade A (Premium Export),Passed,SLA Contract,116200,144.5
+BATCH-2025-119,2025-12-02 14:17:40,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),3176.0,171,13.5,No,Grade B (Local Market),Passed,Software Subscription,16200,39.4
+BATCH-2025-120,2025-12-02 15:39:48,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,1653.9,296,17.2,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,3410,26.4
+BATCH-2025-121,2025-12-03 08:59:53,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),3447.3,255,17.3,No,Grade A (Premium Export),Passed,Software Subscription,24600,43.0
+BATCH-2025-122,2025-12-03 09:18:41,Agricultural Co-op,Surat Thani Fruit Cooperative,Durian,10395.3,57,12.9,Yes,Reject,Rejection Risk Defected,Software Subscription,9900,196.6
+BATCH-2025-123,2025-12-04 10:47:09,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),370.2,260,14.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,930,4.7
+BATCH-2025-124,2025-12-04 14:32:11,Premium Exporter,Bangkok Verdant Export,Mango (Mahachanok),7181.1,273,19.0,No,Grade A (Premium Export),Passed,Software Subscription,24300,87.3
+BATCH-2025-125,2025-12-05 16:31:50,Large Orchard,Rayong Golden Garden Orchard,Mangosteen,2200.3,241,14.4,No,Grade B (Local Market),Passed,Software Subscription,22500,35.1
+BATCH-2025-126,2025-12-06 14:03:09,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),9148.2,225,16.5,No,Grade A (Premium Export),Passed,SLA Contract,117300,113.0
+BATCH-2025-127,2025-12-06 14:23:56,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),7984.0,208,17.9,No,Grade A (Premium Export),Passed,Machine Purchase,4100,98.4
+BATCH-2025-128,2025-12-07 12:44:26,Large Orchard,Trat Mangosteen Highland Farm,Durian,6245.6,47,14.3,No,Grade B (Local Market),Passed,Machine Purchase,13600,123.0
+BATCH-2025-129,2025-12-07 15:59:50,Large Orchard,Uttaradit Premium Orchard,Mango (Mahachanok),4406.7,204,17.3,No,Grade A (Premium Export),Passed,Software Subscription,14900,57.4
+BATCH-2025-130,2025-12-08 06:35:49,Service Startup,"Orchard-on-Demand Co., Ltd.",Durian,204.2,42,16.3,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,800,3.9
+BATCH-2025-131,2025-12-08 09:14:06,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Mango (Mahachanok),9441.4,211,17.3,No,Grade A (Premium Export),Passed,Software Subscription,30300,121.8
+BATCH-2025-132,2025-12-08 11:21:20,Large Orchard,Chumphon Emerald Orchard,Mangosteen,7129.1,316,15.4,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,21220,112.5
+BATCH-2025-133,2025-12-08 13:34:07,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,9699.5,46,16.9,No,Grade A (Premium Export),Passed,Machine Purchase,5900,184.1
+BATCH-2025-134,2025-12-08 15:06:18,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),4326.6,252,12.2,No,Grade B (Local Market),Passed,Machine Purchase,8900,54.8
+BATCH-2025-135,2025-12-09 10:27:54,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),14121.9,191,16.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,28820,181.2
+BATCH-2025-136,2025-12-09 12:04:25,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),4176.6,214,16.2,No,Grade A (Premium Export),Passed,SLA Contract,46100,52.6
+BATCH-2025-137,2025-12-09 13:00:34,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),4833.4,241,14.6,No,Grade B (Local Market),Passed,Pay-per-use/Rental,11110,59.7
+BATCH-2025-138,2025-12-09 13:45:25,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),14471.5,190,14.2,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,33960,181.7
+BATCH-2025-139,2025-12-09 14:54:33,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mango (Mahachanok),3425.6,216,14.5,No,Grade B (Local Market),Passed,Pay-per-use/Rental,8810,43.2
+BATCH-2025-140,2025-12-10 13:53:32,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),821.6,184,15.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1840,10.1
+BATCH-2025-141,2025-12-10 14:32:54,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),1611.6,213,16.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,3650,20.9
+BATCH-2025-142,2025-12-10 18:27:18,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),8770.0,249,18.1,No,Grade A (Premium Export),Passed,Machine Purchase,10800,111.5
+BATCH-2025-143,2025-12-10 19:32:22,Large Orchard,Khao Kitchakut Mango Estate,Durian,5573.9,39,15.5,No,Grade A (Premium Export),Passed,SLA Contract,69000,107.7
+BATCH-2025-144,2025-12-12 06:53:52,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mango (Mahachanok),13805.9,209,12.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,33950,177.5
+BATCH-2025-145,2025-12-15 08:26:29,Service Startup,QuickSort Mobile Service,Mango (Mahachanok),1310.7,163,16.0,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,2830,16.4
+BATCH-2025-146,2025-12-15 08:46:49,Premium Exporter,Bangkok Verdant Export,Mangosteen,11737.8,323,15.6,No,Grade A (Premium Export),Passed,Software Subscription,24000,195.9
+BATCH-2025-147,2025-12-15 09:41:24,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),1955.6,187,17.2,No,Grade A (Premium Export),Passed,Software Subscription,7100,25.6
+BATCH-2025-148,2025-12-15 10:29:07,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),4591.9,227,18.4,No,Grade A (Premium Export),Passed,SLA Contract,82000,58.2
+BATCH-2025-149,2025-12-15 18:41:06,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),1186.2,191,12.6,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2560,15.2
+BATCH-2025-150,2025-12-16 10:51:13,Large Orchard,Rayong Golden Garden Orchard,Durian,7597.1,49,14.6,No,Grade B (Local Market),Passed,Software Subscription,15900,149.5
+BATCH-2025-151,2025-12-16 14:33:06,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),6670.3,169,16.0,No,Grade A (Premium Export),Passed,Machine Purchase,8200,82.8
+BATCH-2025-152,2025-12-17 13:34:48,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,8059.4,56,17.5,No,Grade A (Premium Export),Passed,SLA Contract,108100,163.0
+BATCH-2025-153,2025-12-17 14:38:55,Large Orchard,Uttaradit Premium Orchard,Mangosteen,6600.9,270,15.0,No,Grade B (Local Market),Passed,Software Subscription,17600,108.8
+BATCH-2025-154,2025-12-17 14:46:12,Premium Exporter,Bangkok Verdant Export,Durian,8948.4,63,16.7,No,Grade A (Premium Export),Passed,Software Subscription,27100,182.0
+BATCH-2025-155,2025-12-17 16:36:33,Large Orchard,Phrae Sunrise Mango Farm,Durian,4177.8,55,18.4,No,Grade A (Premium Export),Passed,Software Subscription,18300,83.6
+BATCH-2025-156,2025-12-18 08:11:48,Large Orchard,Nakhon Si Royal Orchard,Durian,4094.7,43,16.1,No,Grade A (Premium Export),Passed,SLA Contract,79300,83.5
+BATCH-2025-157,2025-12-18 15:27:37,Large Orchard,Phrae Sunrise Mango Farm,Mango (Mahachanok),5908.3,250,17.7,No,Grade A (Premium Export),Passed,Software Subscription,13100,77.6
+BATCH-2025-158,2025-12-18 21:29:41,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),1817.9,247,13.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3320,23.5
+BATCH-2025-159,2025-12-19 14:11:20,Agricultural Co-op,Loei Garden Fruit Co-op,Mango (Mahachanok),4593.2,196,15.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,9430,56.2
+BATCH-2025-160,2025-12-19 15:03:23,Large Orchard,Nakhon Si Royal Orchard,Mangosteen,4469.9,303,16.3,No,Grade A (Premium Export),Passed,SLA Contract,45200,73.4
+BATCH-2025-161,2025-12-19 19:16:59,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),1627.6,217,17.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,4190,21.1
+BATCH-2025-162,2025-12-20 07:19:08,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),9635.2,215,17.3,No,Grade A (Premium Export),Passed,SLA Contract,47700,123.8
+BATCH-2025-163,2025-12-20 07:39:27,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),8968.7,238,18.1,No,Grade A (Premium Export),Passed,SLA Contract,70800,113.8
+BATCH-2025-164,2025-12-20 17:53:27,Agricultural Co-op,Prachinburi Smart Growers Co-op,Durian,6286.5,59,14.3,No,Grade B (Local Market),Passed,SLA Contract,66100,119.6
+BATCH-2025-165,2025-12-21 13:51:12,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),10458.5,164,14.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,23810,129.8
+BATCH-2025-166,2025-12-22 11:43:30,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),3954.7,226,13.9,No,Grade B (Local Market),Passed,Software Subscription,25000,50.6
+BATCH-2025-167,2025-12-22 18:20:00,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,1996.4,303,15.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,4590,33.2
+BATCH-2025-168,2025-12-23 12:50:10,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),4369.4,215,15.0,No,Grade B (Local Market),Passed,Machine Purchase,14300,55.4
+BATCH-2025-169,2025-12-23 14:42:49,Large Orchard,Uttaradit Premium Orchard,Mango (Mahachanok),6177.2,202,18.2,No,Grade A (Premium Export),Passed,Software Subscription,15000,76.8
+BATCH-2025-170,2025-12-24 07:48:03,Large Orchard,Uttaradit Premium Orchard,Durian,4783.9,44,15.5,No,Grade A (Premium Export),Passed,Software Subscription,14600,97.1
+BATCH-2025-171,2025-12-24 09:15:59,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),996.1,180,16.7,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1830,12.9
+BATCH-2025-172,2025-12-24 09:26:03,Large Orchard,Khao Kitchakut Mango Estate,Mango (Mahachanok),4130.6,174,17.6,No,Grade A (Premium Export),Passed,SLA Contract,67600,53.1
+BATCH-2025-173,2025-12-24 12:36:30,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),1942.5,259,15.2,No,Grade B (Local Market),Passed,Software Subscription,10600,23.8
+BATCH-2025-174,2025-12-25 08:04:19,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Mangosteen,5127.0,252,18.0,No,Grade A (Premium Export),Passed,SLA Contract,109400,85.6
+BATCH-2025-175,2025-12-25 12:42:29,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),4206.9,245,17.0,No,Grade A (Premium Export),Passed,Machine Purchase,14100,52.7
+BATCH-2025-176,2025-12-25 15:55:27,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1005.7,240,15.3,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,2270,13.0
+BATCH-2025-177,2025-12-26 12:15:52,Large Orchard,Rayong Golden Garden Orchard,Durian,6932.1,55,18.8,No,Grade A (Premium Export),Passed,Software Subscription,21500,140.6
+BATCH-2025-178,2025-12-26 13:10:19,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),4355.4,248,15.8,No,Grade A (Premium Export),Passed,Software Subscription,10000,55.7
+BATCH-2025-179,2025-12-26 16:41:47,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),5579.7,222,14.2,No,Grade B (Local Market),Passed,Software Subscription,13500,70.6
+BATCH-2025-180,2025-12-27 07:57:12,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mangosteen,14681.7,312,13.2,No,Grade B (Local Market),Passed,SLA Contract,44400,236.3
+BATCH-2025-181,2025-12-29 11:18:24,Service Startup,"SortHub Thailand Co., Ltd.",Mangosteen,1729.2,293,15.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3950,28.9
+BATCH-2025-182,2025-12-29 14:12:01,Agricultural Co-op,Yala Highland Fruit Co-op,Durian,3083.6,55,12.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,11260,58.9
+BATCH-2025-183,2025-12-30 14:08:21,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),1227.3,167,15.7,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,3050,15.1
+BATCH-2025-184,2025-12-30 14:34:09,Large Orchard,Nakhon Si Royal Orchard,Mangosteen,3514.7,322,18.5,No,Grade A (Premium Export),Passed,SLA Contract,62100,58.6
+BATCH-2025-185,2025-12-30 14:35:07,Agricultural Co-op,Trat Orchard Alliance Co-op,Mango (Mahachanok),11301.7,231,13.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,23170,144.6
+BATCH-2025-186,2025-12-31 14:59:31,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),5906.2,252,13.8,No,Grade B (Local Market),Passed,Machine Purchase,14400,76.2
+BATCH-2026-001,2026-01-01 11:01:22,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),4455.4,239,17.7,No,Grade A (Premium Export),Passed,Machine Purchase,4400,54.4
+BATCH-2026-002,2026-01-01 13:13:34,Large Orchard,Nakhon Si Royal Orchard,Mango (Mahachanok),2762.1,177,16.5,No,Grade A (Premium Export),Passed,SLA Contract,46600,34.6
+BATCH-2026-003,2026-01-01 13:21:01,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,9794.2,60,16.1,No,Grade A (Premium Export),Passed,Machine Purchase,14500,193.6
+BATCH-2026-004,2026-01-02 08:15:45,Premium Exporter,Thai Royal Harvest International,Durian,2718.6,57,17.3,No,Grade A (Premium Export),Passed,SLA Contract,116200,52.7
+BATCH-2026-005,2026-01-02 14:56:39,Large Orchard,Nakhon Si Royal Orchard,Durian,1952.7,40,16.1,No,Grade A (Premium Export),Passed,SLA Contract,79100,39.0
+BATCH-2026-006,2026-01-02 16:46:56,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Durian,13997.2,59,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,45600,282.3
+BATCH-2026-007,2026-01-03 12:01:04,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),1253.0,179,16.5,No,Grade A (Premium Export),Passed,Software Subscription,13400,15.7
+BATCH-2026-008,2026-01-05 12:20:19,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),4993.8,251,16.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,9270,62.6
+BATCH-2026-009,2026-01-06 15:52:44,Agricultural Co-op,Trat Orchard Alliance Co-op,Mango (Mahachanok),3838.4,161,12.9,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,8110,46.9
+BATCH-2026-010,2026-01-06 16:44:10,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Durian,11008.9,53,15.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,34590,221.5
+BATCH-2026-011,2026-01-06 18:32:58,Large Orchard,Khao Kitchakut Mango Estate,Mangosteen,7986.7,240,15.8,No,Grade A (Premium Export),Passed,SLA Contract,74700,131.7
+BATCH-2026-012,2026-01-07 07:59:14,Agricultural Co-op,Yala Highland Fruit Co-op,Mango (Mahachanok),4673.3,183,18.0,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,11430,57.6
+BATCH-2026-013,2026-01-07 08:07:37,Service Startup,QuickSort Mobile Service,Mango (Mahachanok),1629.0,214,13.0,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,3850,20.7
+BATCH-2026-014,2026-01-07 14:01:47,Large Orchard,Khao Kitchakut Mango Estate,Mangosteen,6187.8,289,17.0,No,Grade A (Premium Export),Passed,SLA Contract,45700,99.4
+BATCH-2026-015,2026-01-09 10:49:16,Large Orchard,Uttaradit Premium Orchard,Mango (Mahachanok),3221.8,250,17.4,No,Grade A (Premium Export),Passed,Software Subscription,17500,40.0
+BATCH-2026-016,2026-01-10 08:36:17,Large Orchard,Nakhon Si Royal Orchard,Durian,5301.8,59,16.3,No,Grade A (Premium Export),Passed,SLA Contract,70100,100.9
+BATCH-2026-017,2026-01-10 13:26:05,Large Orchard,Trat Mangosteen Highland Farm,Durian,7551.9,45,18.2,No,Grade A (Premium Export),Passed,Machine Purchase,11400,149.7
+BATCH-2026-018,2026-01-10 14:49:36,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),450.7,167,16.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,900,5.8
+BATCH-2026-019,2026-01-11 12:52:03,Large Orchard,Khao Kitchakut Mango Estate,Mango (Mahachanok),7799.1,250,15.3,No,Grade B (Local Market),Passed,SLA Contract,60800,101.8
+BATCH-2026-020,2026-01-11 14:00:42,Large Orchard,Suan Thong Durian Orchard,Durian,3341.9,46,14.1,No,Grade B (Local Market),Passed,Machine Purchase,13800,66.2
+BATCH-2026-021,2026-01-12 15:39:23,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),3733.4,205,18.6,No,Grade A (Premium Export),Passed,SLA Contract,82300,45.7
+BATCH-2026-022,2026-01-12 15:47:28,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Mango (Mahachanok),4912.3,234,18.4,No,Grade A (Premium Export),Passed,Machine Purchase,5400,64.3
+BATCH-2026-023,2026-01-13 14:52:59,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Durian,8683.7,52,13.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,31220,165.7
+BATCH-2026-024,2026-01-14 10:16:52,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Mango (Mahachanok),11458.8,267,18.0,No,Grade A (Premium Export),Passed,Software Subscription,33100,142.7
+BATCH-2026-025,2026-01-15 08:47:00,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),6077.5,191,12.4,No,Grade B (Local Market),Passed,Software Subscription,22600,79.6
+BATCH-2026-026,2026-01-15 11:09:37,Agricultural Co-op,Prachinburi Smart Growers Co-op,Durian,12742.8,52,13.4,No,Grade B (Local Market),Passed,SLA Contract,48700,256.0
+BATCH-2026-027,2026-01-15 15:14:28,Agricultural Co-op,Loei Garden Fruit Co-op,Mango (Mahachanok),12978.0,238,14.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,30670,159.7
+BATCH-2026-028,2026-01-15 19:18:28,Agricultural Co-op,Yala Highland Fruit Co-op,Mangosteen,10230.5,266,15.0,No,Grade B (Local Market),Passed,Pay-per-use/Rental,24710,161.1
+BATCH-2026-029,2026-01-17 10:26:53,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),12892.0,230,17.0,No,Grade A (Premium Export),Passed,SLA Contract,58400,159.6
+BATCH-2026-030,2026-01-17 13:16:05,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),4224.1,234,14.9,No,Grade B (Local Market),Passed,SLA Contract,64200,53.2
+BATCH-2026-031,2026-01-17 14:08:56,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,2900.8,46,18.3,No,Grade A (Premium Export),Passed,SLA Contract,106100,57.9
+BATCH-2026-032,2026-01-17 17:33:50,Large Orchard,Uttaradit Premium Orchard,Durian,1751.2,56,15.0,No,Grade B (Local Market),Passed,Software Subscription,23800,33.7
+BATCH-2026-033,2026-01-17 19:37:37,Service Startup,"AgriGrade Services Co., Ltd.",Mangosteen,1335.1,287,13.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3370,22.3
+BATCH-2026-034,2026-01-18 17:35:57,Large Orchard,Chumphon Emerald Orchard,Durian,1106.4,35,16.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,4130,21.5
+BATCH-2026-035,2026-01-19 13:13:36,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),9358.3,250,18.7,No,Grade A (Premium Export),Passed,SLA Contract,101500,120.4
+BATCH-2026-036,2026-01-19 16:50:35,Agricultural Co-op,Yala Highland Fruit Co-op,Mango (Mahachanok),7282.8,231,15.0,No,Grade B (Local Market),Passed,Pay-per-use/Rental,15570,93.1
+BATCH-2026-037,2026-01-20 08:33:31,Agricultural Co-op,Surat Thani Fruit Cooperative,Durian,8779.8,38,14.6,No,Grade B (Local Market),Passed,Software Subscription,14800,178.8
+BATCH-2026-038,2026-01-20 12:34:41,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),2455.0,195,18.1,No,Grade A (Premium Export),Passed,SLA Contract,76700,31.0
+BATCH-2026-039,2026-01-20 14:28:32,Large Orchard,Uttaradit Premium Orchard,Mango (Mahachanok),7759.8,227,13.8,No,Grade B (Local Market),Passed,Software Subscription,13900,94.2
+BATCH-2026-040,2026-01-21 11:03:09,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),1078.5,175,14.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2730,13.1
+BATCH-2026-041,2026-01-21 12:01:40,Agricultural Co-op,Loei Garden Fruit Co-op,Mango (Mahachanok),8334.3,245,13.6,No,Grade B (Local Market),Passed,Pay-per-use/Rental,15740,109.1
+BATCH-2026-042,2026-01-21 13:52:01,Agricultural Co-op,Yala Highland Fruit Co-op,Mangosteen,9501.2,241,12.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,26970,151.9
+BATCH-2026-043,2026-01-22 13:40:52,Service Startup,FruitFlow Logistics Startup,Mango (Mahachanok),1149.8,239,16.7,No,Grade A (Premium Export),Passed,Software Subscription,11800,14.3
+BATCH-2026-044,2026-01-23 16:17:29,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),6680.7,246,18.2,No,Grade A (Premium Export),Passed,SLA Contract,43000,83.9
+BATCH-2026-045,2026-01-23 17:17:56,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,11786.5,63,16.3,No,Grade A (Premium Export),Passed,Machine Purchase,6600,240.1
+BATCH-2026-046,2026-01-23 18:31:23,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),9070.9,257,14.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,19570,111.2
+BATCH-2026-047,2026-01-23 22:54:18,Service Startup,FruitFlow Logistics Startup,Mango (Mahachanok),967.6,239,18.1,No,Grade A (Premium Export),Passed,Software Subscription,11300,12.0
+BATCH-2026-048,2026-01-25 10:25:04,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mangosteen,13878.3,306,14.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,37900,229.6
+BATCH-2026-049,2026-01-26 09:08:14,Premium Exporter,Chanthaburi Prime Export,Durian,4037.5,37,17.8,No,Grade A (Premium Export),Passed,Machine Purchase,9900,78.1
+BATCH-2026-050,2026-01-26 12:46:49,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),4486.9,213,12.3,Yes,Reject,Rejection Risk Defected,SLA Contract,65400,56.7
+BATCH-2026-051,2026-01-26 20:50:31,Service Startup,Harvest2Grade Tech,Durian,1166.0,54,13.3,No,Grade B (Local Market),Passed,Software Subscription,7800,23.7
+BATCH-2026-052,2026-01-27 07:17:52,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,5832.2,43,18.1,No,Grade A (Premium Export),Passed,SLA Contract,105400,112.4
+BATCH-2026-053,2026-01-27 14:37:10,Service Startup,QuickSort Mobile Service,Mango (Mahachanok),1464.9,208,15.7,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,3580,18.4
+BATCH-2026-054,2026-01-27 17:55:53,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1523.7,235,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2950,19.3
+BATCH-2026-055,2026-01-28 13:23:31,Agricultural Co-op,Prachinburi Smart Growers Co-op,Durian,5140.9,51,15.4,No,Grade B (Local Market),Passed,SLA Contract,63300,104.5
+BATCH-2026-056,2026-01-28 17:21:19,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),8259.3,254,17.6,No,Grade A (Premium Export),Passed,SLA Contract,115700,107.2
+BATCH-2026-057,2026-01-28 19:56:55,Service Startup,FruitFlow Logistics Startup,Durian,1118.2,58,15.4,Yes,Reject,Rejection Risk Defected,Software Subscription,11900,22.6
+BATCH-2026-058,2026-01-29 17:30:03,Large Orchard,Trat Mangosteen Highland Farm,Durian,5000.4,58,15.6,No,Grade A (Premium Export),Passed,Machine Purchase,10900,95.6
+BATCH-2026-059,2026-01-29 20:14:09,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),4226.3,225,17.3,No,Grade A (Premium Export),Passed,SLA Contract,74000,52.5
+BATCH-2026-060,2026-01-29 20:38:20,Service Startup,FruitFlow Logistics Startup,Mango (Mahachanok),1026.0,188,15.2,No,Grade B (Local Market),Passed,Software Subscription,10200,12.8
+BATCH-2026-061,2026-01-30 09:14:59,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),7661.9,239,17.7,No,Grade A (Premium Export),Passed,SLA Contract,76800,95.3
+BATCH-2026-062,2026-01-30 12:25:18,Service Startup,QuickSort Mobile Service,Mangosteen,1802.8,276,13.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,5260,28.6
+BATCH-2026-063,2026-01-31 11:13:00,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mango (Mahachanok),5719.3,184,12.8,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,11660,75.0
+BATCH-2026-064,2026-01-31 12:38:08,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),7359.5,169,16.6,No,Grade A (Premium Export),Passed,Software Subscription,18100,91.5
+BATCH-2026-065,2026-01-31 22:11:18,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),957.7,252,15.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1970,11.8
+BATCH-2026-066,2026-02-01 08:28:16,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),10418.7,221,18.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,25860,133.1
+BATCH-2026-067,2026-02-01 15:47:35,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1186.0,204,12.7,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,2460,14.5
+BATCH-2026-068,2026-02-02 11:18:13,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Mango (Mahachanok),11882.8,184,18.0,No,Grade A (Premium Export),Passed,Machine Purchase,12900,149.0
+BATCH-2026-069,2026-02-02 11:22:34,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,5394.8,59,19.7,No,Grade A (Premium Export),Passed,SLA Contract,95800,109.2
+BATCH-2026-070,2026-02-03 07:37:16,Agricultural Co-op,Trat Orchard Alliance Co-op,Mango (Mahachanok),5963.6,225,17.2,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,15420,73.2
+BATCH-2026-071,2026-02-03 10:56:02,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),6238.0,177,14.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,11760,76.2
+BATCH-2026-072,2026-02-03 11:54:22,Agricultural Co-op,Yala Highland Fruit Co-op,Mangosteen,7527.0,260,15.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,21930,118.0
+BATCH-2026-073,2026-02-03 13:35:25,Agricultural Co-op,Surat Thani Fruit Cooperative,Mangosteen,12281.3,307,15.7,No,Grade A (Premium Export),Passed,Software Subscription,14100,194.2
+BATCH-2026-074,2026-02-04 06:07:04,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,3198.4,50,18.1,No,Grade A (Premium Export),Passed,Machine Purchase,7300,60.7
+BATCH-2026-075,2026-02-04 08:24:30,Large Orchard,Suan Thong Durian Orchard,Durian,5295.4,57,17.9,No,Grade A (Premium Export),Passed,Machine Purchase,4200,104.1
+BATCH-2026-076,2026-02-04 09:18:14,Large Orchard,Uttaradit Premium Orchard,Mango (Mahachanok),4577.5,254,17.1,No,Grade A (Premium Export),Passed,Software Subscription,20200,55.9
+BATCH-2026-077,2026-02-04 17:57:56,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Durian,13677.6,44,12.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,50110,263.3
+BATCH-2026-078,2026-02-05 06:28:27,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),4229.6,217,17.5,No,Grade A (Premium Export),Passed,SLA Contract,71200,55.5
+BATCH-2026-079,2026-02-05 07:34:18,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),11033.0,254,14.3,No,Grade B (Local Market),Passed,Machine Purchase,10800,139.4
+BATCH-2026-080,2026-02-05 09:48:38,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mango (Mahachanok),5851.7,245,14.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,15140,76.1
+BATCH-2026-081,2026-02-05 10:01:58,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mangosteen,5815.2,254,11.5,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,17030,97.2
+BATCH-2026-082,2026-02-05 16:45:21,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),8559.2,163,15.0,No,Grade B (Local Market),Passed,Pay-per-use/Rental,21410,109.1
+BATCH-2026-083,2026-02-05 18:40:19,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),12668.7,168,17.0,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,26240,165.9
+BATCH-2026-084,2026-02-06 09:24:18,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),12110.1,236,16.6,No,Grade A (Premium Export),Passed,Machine Purchase,8200,158.8
+BATCH-2026-085,2026-02-06 09:56:37,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),6209.4,254,14.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,14790,77.2
+BATCH-2026-086,2026-02-06 12:08:26,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),14353.8,244,12.5,No,Grade B (Local Market),Passed,Pay-per-use/Rental,34880,187.8
+BATCH-2026-087,2026-02-06 19:55:23,Agricultural Co-op,Loei Garden Fruit Co-op,Mango (Mahachanok),12773.8,183,15.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,23920,160.4
+BATCH-2026-088,2026-02-07 10:04:07,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),934.4,227,18.8,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1950,11.5
+BATCH-2026-089,2026-02-07 11:11:10,Service Startup,"SortHub Thailand Co., Ltd.",Durian,1443.5,48,14.0,No,Grade B (Local Market),Passed,Pay-per-use/Rental,4490,29.2
+BATCH-2026-090,2026-02-07 14:01:12,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),7717.1,186,17.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,15810,93.8
+BATCH-2026-091,2026-02-08 10:22:34,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),8339.0,205,16.1,No,Grade A (Premium Export),Passed,SLA Contract,108900,101.4
+BATCH-2026-092,2026-02-09 12:10:54,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,11284.4,36,17.8,No,Grade A (Premium Export),Passed,SLA Contract,75000,221.5
+BATCH-2026-093,2026-02-10 06:04:02,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),9981.4,236,18.0,No,Grade A (Premium Export),Passed,SLA Contract,109300,127.9
+BATCH-2026-094,2026-02-10 12:50:25,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),1559.8,190,15.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3480,19.8
+BATCH-2026-095,2026-02-11 13:13:29,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),5819.6,212,12.1,No,Grade B (Local Market),Passed,Machine Purchase,3000,76.1
+BATCH-2026-096,2026-02-11 13:45:02,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,7096.7,52,18.9,No,Grade A (Premium Export),Passed,SLA Contract,103300,144.8
+BATCH-2026-097,2026-02-11 16:17:00,Agricultural Co-op,Loei Garden Fruit Co-op,Mango (Mahachanok),4849.6,224,13.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,9560,59.7
+BATCH-2026-098,2026-02-11 16:24:25,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),10490.1,199,13.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,22590,137.6
+BATCH-2026-099,2026-02-11 18:35:57,Agricultural Co-op,Loei Garden Fruit Co-op,Mango (Mahachanok),9951.9,205,16.3,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,24100,126.4
+BATCH-2026-100,2026-02-12 10:51:37,Agricultural Co-op,Yala Highland Fruit Co-op,Mango (Mahachanok),10866.4,189,14.5,No,Grade B (Local Market),Passed,Pay-per-use/Rental,28150,141.5
+BATCH-2026-101,2026-02-12 19:24:04,Large Orchard,Rayong Golden Garden Orchard,Durian,5365.2,54,19.2,No,Grade A (Premium Export),Passed,Software Subscription,17200,107.0
+BATCH-2026-102,2026-02-13 13:32:51,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),3552.6,170,15.2,Yes,Reject,Rejection Risk Defected,Software Subscription,13800,43.8
+BATCH-2026-103,2026-02-13 15:14:14,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),1871.3,161,15.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,4280,23.3
+BATCH-2026-104,2026-02-13 18:25:09,Large Orchard,Phrae Sunrise Mango Farm,Mango (Mahachanok),1191.3,240,13.1,No,Grade B (Local Market),Passed,Software Subscription,17800,15.3
+BATCH-2026-105,2026-02-14 16:56:49,Service Startup,QuickSort Mobile Service,Mango (Mahachanok),1285.3,250,11.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2340,16.4
+BATCH-2026-106,2026-02-14 17:59:23,Premium Exporter,Chanthaburi Prime Export,Durian,8209.4,58,17.6,No,Grade A (Premium Export),Passed,Machine Purchase,9500,162.4
+BATCH-2026-107,2026-02-16 11:12:30,Agricultural Co-op,Yala Highland Fruit Co-op,Durian,9180.1,54,11.5,No,Grade B (Local Market),Passed,Pay-per-use/Rental,31200,184.3
+BATCH-2026-108,2026-02-16 13:38:22,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),9383.3,237,13.7,No,Grade B (Local Market),Passed,Machine Purchase,13700,121.2
+BATCH-2026-109,2026-02-16 13:52:42,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),2595.5,257,15.0,No,Grade B (Local Market),Passed,Machine Purchase,12900,31.8
+BATCH-2026-110,2026-02-17 09:09:40,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),3691.9,170,19.6,No,Grade A (Premium Export),Passed,SLA Contract,112700,48.4
+BATCH-2026-111,2026-02-17 13:49:56,Service Startup,QuickSort Mobile Service,Mango (Mahachanok),1338.3,167,16.3,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,2420,17.2
+BATCH-2026-112,2026-02-17 14:18:06,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),5644.9,232,18.9,No,Grade A (Premium Export),Passed,Software Subscription,21700,73.6
+BATCH-2026-113,2026-02-17 15:10:47,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),3734.2,256,13.3,No,Grade B (Local Market),Passed,Machine Purchase,13800,46.7
+BATCH-2026-114,2026-02-17 19:43:50,Agricultural Co-op,Surat Thani Fruit Cooperative,Durian,14463.3,41,19.7,No,Grade A (Premium Export),Passed,Software Subscription,10200,279.6
+BATCH-2026-115,2026-02-18 08:30:16,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),8048.5,239,16.8,No,Grade A (Premium Export),Passed,Machine Purchase,4400,103.5
+BATCH-2026-116,2026-02-18 11:13:40,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),13597.0,172,15.4,No,Grade B (Local Market),Passed,Software Subscription,15100,175.8
+BATCH-2026-117,2026-02-18 14:10:44,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),1854.4,238,15.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,4220,23.7
+BATCH-2026-118,2026-02-18 14:13:16,Large Orchard,Phrae Sunrise Mango Farm,Mango (Mahachanok),5168.1,216,17.4,No,Grade A (Premium Export),Passed,Software Subscription,15200,65.2
+BATCH-2026-119,2026-02-18 15:26:45,Premium Exporter,Lanna Select Fruits Export,Durian,4149.7,40,15.6,No,Grade A (Premium Export),Passed,SLA Contract,99700,81.7
+BATCH-2026-120,2026-02-18 17:03:09,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),4742.8,183,13.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,10900,58.5
+BATCH-2026-121,2026-02-19 15:29:13,Large Orchard,Phrae Sunrise Mango Farm,Durian,6152.1,48,17.3,No,Grade A (Premium Export),Passed,Software Subscription,15200,121.7
+BATCH-2026-122,2026-02-19 16:00:13,Premium Exporter,Bangkok Verdant Export,Mango (Mahachanok),6119.1,242,19.9,No,Grade A (Premium Export),Passed,Software Subscription,26000,75.8
+BATCH-2026-123,2026-02-20 09:38:17,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),996.0,202,11.2,No,Grade B (Local Market),Passed,Software Subscription,9200,13.0
+BATCH-2026-124,2026-02-21 15:41:47,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),4198.9,245,16.6,No,Grade A (Premium Export),Passed,SLA Contract,70300,52.6
+BATCH-2026-125,2026-02-21 16:54:55,Agricultural Co-op,Prachinburi Smart Growers Co-op,Durian,10520.4,35,12.7,No,Grade B (Local Market),Passed,SLA Contract,68800,208.4
+BATCH-2026-126,2026-02-23 17:51:16,Service Startup,QuickSort Mobile Service,Mango (Mahachanok),228.0,258,17.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,480,3.0
+BATCH-2026-127,2026-02-24 07:57:50,Large Orchard,Suan Thong Durian Orchard,Durian,3489.1,37,14.0,No,Grade B (Local Market),Passed,Machine Purchase,4800,68.4
+BATCH-2026-128,2026-02-24 08:47:01,Large Orchard,Phrae Sunrise Mango Farm,Durian,7838.4,40,14.9,No,Grade B (Local Market),Passed,Software Subscription,21800,155.9
+BATCH-2026-129,2026-02-25 08:50:50,Agricultural Co-op,Nakhon Sawan Mango Co-op,Durian,11711.0,47,15.8,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,39920,237.1
+BATCH-2026-130,2026-02-26 08:34:51,Agricultural Co-op,Trat Orchard Alliance Co-op,Mango (Mahachanok),14200.6,195,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,27310,180.7
+BATCH-2026-131,2026-02-26 15:21:15,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),4300.8,256,16.1,No,Grade A (Premium Export),Passed,SLA Contract,102800,52.9
+BATCH-2026-132,2026-02-26 19:16:11,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),5873.8,248,15.8,No,Grade A (Premium Export),Passed,SLA Contract,62400,71.7
+BATCH-2026-133,2026-02-27 09:59:47,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),505.0,244,14.5,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1040,6.4
+BATCH-2026-134,2026-02-27 15:57:12,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),373.5,228,16.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,740,4.6
+BATCH-2026-135,2026-02-28 07:43:20,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),7385.1,273,17.5,No,Grade A (Premium Export),Passed,SLA Contract,100500,91.7
+BATCH-2026-136,2026-02-28 08:38:31,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),576.4,182,12.4,No,Grade B (Local Market),Passed,Software Subscription,11700,7.3
+BATCH-2026-137,2026-02-28 09:21:49,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Durian,8254.5,50,17.5,No,Grade A (Premium Export),Passed,Software Subscription,20800,168.6
+BATCH-2026-138,2026-02-28 09:43:58,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),2004.6,259,19.0,No,Grade A (Premium Export),Passed,SLA Contract,109400,25.7
+BATCH-2026-139,2026-02-28 13:26:44,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),11416.8,199,13.3,No,Grade B (Local Market),Passed,SLA Contract,43000,139.2
+BATCH-2026-140,2026-02-28 14:37:17,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Durian,5056.2,56,18.1,No,Grade A (Premium Export),Passed,Software Subscription,23200,95.8
+BATCH-2026-141,2026-03-02 08:05:54,Service Startup,FruitFlow Logistics Startup,Mango (Mahachanok),1794.2,233,14.2,No,Grade B (Local Market),Passed,Software Subscription,11900,22.1
+BATCH-2026-142,2026-03-02 13:19:11,Service Startup,QuickSort Mobile Service,Mango (Mahachanok),891.5,209,14.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2300,10.9
+BATCH-2026-143,2026-03-02 13:50:12,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),1236.1,252,14.8,No,Grade B (Local Market),Passed,Software Subscription,14900,15.0
+BATCH-2026-144,2026-03-02 22:06:08,Agricultural Co-op,Yala Highland Fruit Co-op,Mango (Mahachanok),10534.2,247,13.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,22380,133.6
+BATCH-2026-145,2026-03-03 09:43:22,Large Orchard,Khao Kitchakut Mango Estate,Mango (Mahachanok),4496.1,259,17.0,No,Grade A (Premium Export),Passed,SLA Contract,88000,59.0
+BATCH-2026-146,2026-03-03 20:57:39,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),5890.3,207,18.3,No,Grade A (Premium Export),Passed,SLA Contract,73500,74.9
+BATCH-2026-147,2026-03-04 09:36:34,Large Orchard,Rayong Golden Garden Orchard,Durian,7262.7,37,18.9,No,Grade A (Premium Export),Passed,Software Subscription,16800,139.9
+BATCH-2026-148,2026-03-05 10:27:42,Large Orchard,Trat Mangosteen Highland Farm,Durian,5540.6,50,17.1,No,Grade A (Premium Export),Passed,Machine Purchase,4800,111.8
+BATCH-2026-149,2026-03-05 22:32:20,Large Orchard,Khao Kitchakut Mango Estate,Durian,2286.3,59,18.2,No,Grade A (Premium Export),Passed,SLA Contract,66400,43.7
+BATCH-2026-150,2026-03-06 13:21:03,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),987.6,169,12.5,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,1960,12.3
+BATCH-2026-151,2026-03-06 15:35:41,Premium Exporter,Chanthaburi Prime Export,Mangosteen,2720.5,295,17.5,No,Grade A (Premium Export),Passed,Machine Purchase,8800,44.0
+BATCH-2026-152,2026-03-08 10:14:10,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),10423.4,229,16.0,No,Grade A (Premium Export),Passed,SLA Contract,65400,128.6
+BATCH-2026-153,2026-03-09 11:12:09,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,4125.1,63,17.6,No,Grade A (Premium Export),Passed,SLA Contract,87500,80.2
+BATCH-2026-154,2026-03-09 14:28:03,Service Startup,"SortHub Thailand Co., Ltd.",Durian,359.8,36,14.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1300,7.0
+BATCH-2026-155,2026-03-10 08:17:51,Large Orchard,Nakhon Si Royal Orchard,Durian,3912.1,50,17.4,No,Grade A (Premium Export),Passed,SLA Contract,58800,77.3
+BATCH-2026-156,2026-03-10 14:21:50,Premium Exporter,Lanna Select Fruits Export,Durian,2653.4,39,18.8,No,Grade A (Premium Export),Passed,SLA Contract,94000,51.3
+BATCH-2026-157,2026-03-10 14:54:21,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mango (Mahachanok),8622.7,199,17.3,Yes,Reject,Rejection Risk Defected,SLA Contract,59600,108.0
+BATCH-2026-158,2026-03-10 16:45:15,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),4928.6,171,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,11700,62.1
+BATCH-2026-159,2026-03-11 10:06:12,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),782.3,202,17.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1460,10.1
+BATCH-2026-160,2026-03-11 14:06:44,Service Startup,Harvest2Grade Tech,Durian,1309.0,54,16.4,No,Grade A (Premium Export),Passed,Software Subscription,9700,26.4
+BATCH-2026-161,2026-03-11 14:53:10,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),8479.1,227,15.1,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,16080,104.1
+BATCH-2026-162,2026-03-11 15:38:54,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),8681.4,224,19.0,No,Grade A (Premium Export),Passed,SLA Contract,105900,107.6
+BATCH-2026-163,2026-03-11 15:49:15,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Durian,9707.4,58,15.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,29700,189.8
+BATCH-2026-164,2026-03-11 20:13:34,Agricultural Co-op,Trat Orchard Alliance Co-op,Mangosteen,13525.2,306,13.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,30420,218.2
+BATCH-2026-165,2026-03-12 07:41:51,Large Orchard,Nakhon Si Royal Orchard,Mango (Mahachanok),5007.3,223,16.1,Yes,Reject,Rejection Risk Defected,SLA Contract,53800,64.4
+BATCH-2026-166,2026-03-12 07:47:02,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Durian,5186.9,46,19.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,20210,103.2
+BATCH-2026-167,2026-03-13 13:42:27,Large Orchard,Nakhon Si Royal Orchard,Mango (Mahachanok),4043.9,160,14.5,No,Grade B (Local Market),Passed,SLA Contract,56700,51.0
+BATCH-2026-168,2026-03-13 13:51:16,Large Orchard,Phrae Sunrise Mango Farm,Mango (Mahachanok),4953.0,253,16.0,No,Grade A (Premium Export),Passed,Software Subscription,13600,60.6
+BATCH-2026-169,2026-03-13 15:48:10,Service Startup,FruitFlow Logistics Startup,Mango (Mahachanok),1389.2,253,12.5,No,Grade B (Local Market),Passed,Software Subscription,11100,17.3
+BATCH-2026-170,2026-03-13 21:15:05,Large Orchard,Khao Kitchakut Mango Estate,Mango (Mahachanok),3740.9,161,16.3,No,Grade A (Premium Export),Passed,SLA Contract,82700,47.8
+BATCH-2026-171,2026-03-14 07:58:00,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mango (Mahachanok),12948.4,206,14.6,No,Grade B (Local Market),Passed,SLA Contract,40200,163.7
+BATCH-2026-172,2026-03-14 10:10:00,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),7741.1,177,19.3,No,Grade A (Premium Export),Passed,Machine Purchase,11700,97.7
+BATCH-2026-173,2026-03-15 11:57:01,Large Orchard,Suan Thong Durian Orchard,Durian,4811.3,60,14.7,No,Grade B (Local Market),Passed,Machine Purchase,11200,93.5
+BATCH-2026-174,2026-03-16 14:50:34,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Mango (Mahachanok),7861.4,244,17.1,No,Grade A (Premium Export),Passed,Software Subscription,31700,100.9
+BATCH-2026-175,2026-03-16 15:14:55,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1617.2,231,17.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,4140,19.7
+BATCH-2026-176,2026-03-18 06:49:43,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),513.9,179,15.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1020,6.6
+BATCH-2026-177,2026-03-18 08:03:49,Large Orchard,Khao Kitchakut Mango Estate,Durian,4460.9,42,18.8,No,Grade A (Premium Export),Passed,SLA Contract,65900,85.7
+BATCH-2026-178,2026-03-18 08:35:36,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),6097.4,200,15.7,No,Grade A (Premium Export),Passed,Machine Purchase,11900,77.5
+BATCH-2026-179,2026-03-19 17:19:49,Agricultural Co-op,Trat Orchard Alliance Co-op,Mangosteen,10933.1,264,17.6,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,28340,169.6
+BATCH-2026-180,2026-03-19 19:24:23,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,291.4,302,15.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,670,4.5
+BATCH-2026-181,2026-03-20 14:44:28,Agricultural Co-op,Prachinburi Smart Growers Co-op,Durian,9650.6,37,15.3,No,Grade B (Local Market),Passed,SLA Contract,51500,182.9
+BATCH-2026-182,2026-03-21 14:41:26,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),3718.7,185,18.7,No,Grade A (Premium Export),Passed,Software Subscription,13500,47.3
+BATCH-2026-183,2026-03-21 21:34:21,Premium Exporter,Chanthaburi Prime Export,Durian,2249.8,61,15.4,No,Grade B (Local Market),Passed,Machine Purchase,11600,45.6
+BATCH-2026-184,2026-03-22 07:19:41,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),876.8,250,13.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1810,10.8
+BATCH-2026-185,2026-03-22 13:45:17,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),10411.5,246,16.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,22530,134.1
+BATCH-2026-186,2026-03-22 19:49:12,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1888.2,188,13.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,4470,23.4
+BATCH-2026-187,2026-03-22 20:39:55,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),1115.3,259,15.3,No,Grade B (Local Market),Passed,Software Subscription,8700,14.5
+BATCH-2026-188,2026-03-22 20:52:39,Large Orchard,Nakhon Si Royal Orchard,Durian,4964.0,39,16.1,No,Grade A (Premium Export),Passed,SLA Contract,47800,98.2
+BATCH-2026-189,2026-03-23 10:43:00,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Durian,11313.3,42,17.5,No,Grade A (Premium Export),Passed,Software Subscription,27100,219.7
+BATCH-2026-190,2026-03-25 12:04:40,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),5662.7,160,13.5,No,Grade B (Local Market),Passed,SLA Contract,45500,70.1
+BATCH-2026-191,2026-03-26 07:07:29,Service Startup,FruitFlow Logistics Startup,Durian,426.0,41,13.9,No,Grade B (Local Market),Passed,Software Subscription,10400,8.6
+BATCH-2026-192,2026-03-26 20:26:03,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),2156.9,177,14.8,No,Grade B (Local Market),Passed,Machine Purchase,14400,26.2
+BATCH-2026-193,2026-03-27 10:32:52,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),3543.7,202,18.5,No,Grade A (Premium Export),Passed,SLA Contract,73100,44.7
+BATCH-2026-194,2026-03-29 16:11:12,Service Startup,FruitFlow Logistics Startup,Mango (Mahachanok),1946.8,196,16.7,No,Grade A (Premium Export),Passed,Software Subscription,8600,24.7
+BATCH-2026-195,2026-03-29 19:55:51,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mango (Mahachanok),5710.9,229,14.5,No,Grade B (Local Market),Passed,SLA Contract,42400,74.7
+BATCH-2026-196,2026-03-30 09:09:43,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),2301.7,176,17.9,No,Grade A (Premium Export),Passed,SLA Contract,99600,28.5
+BATCH-2026-197,2026-03-30 10:51:23,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),1081.6,200,11.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2570,13.8
+BATCH-2026-198,2026-03-30 11:39:21,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),11186.1,214,16.4,No,Grade A (Premium Export),Passed,SLA Contract,53400,136.4
+BATCH-2026-199,2026-03-30 13:47:15,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),4346.5,253,17.2,No,Grade A (Premium Export),Passed,Software Subscription,20000,56.3
+BATCH-2026-200,2026-03-30 13:53:25,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),6692.1,256,18.4,No,Grade A (Premium Export),Passed,Machine Purchase,10600,87.5
+BATCH-2026-201,2026-03-30 15:56:20,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),320.0,217,17.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,620,4.0
+BATCH-2026-202,2026-03-31 13:59:59,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),1569.8,214,18.0,No,Grade A (Premium Export),Passed,Machine Purchase,11100,19.4
+BATCH-2026-203,2026-04-01 18:31:26,Large Orchard,Uttaradit Premium Orchard,Durian,6194.6,54,15.0,No,Grade B (Local Market),Passed,Software Subscription,23400,123.8
+BATCH-2026-204,2026-04-02 13:49:11,Agricultural Co-op,Loei Garden Fruit Co-op,Durian,4078.5,44,14.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,13050,80.7
+BATCH-2026-205,2026-04-02 15:09:03,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),4075.0,185,16.5,No,Grade A (Premium Export),Passed,Machine Purchase,4800,49.7
+BATCH-2026-206,2026-04-02 15:22:51,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1052.2,198,16.8,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,2230,13.1
+BATCH-2026-207,2026-04-03 08:11:07,Premium Exporter,Bangkok Verdant Export,Durian,3450.7,58,17.1,No,Grade A (Premium Export),Passed,Software Subscription,33800,69.7
+BATCH-2026-208,2026-04-03 09:58:27,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),481.0,249,16.9,No,Grade A (Premium Export),Passed,Software Subscription,8600,6.1
+BATCH-2026-209,2026-04-03 15:24:44,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),11565.7,205,15.3,No,Grade B (Local Market),Passed,SLA Contract,40000,149.9
+BATCH-2026-210,2026-04-04 14:32:51,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),2190.0,164,18.0,No,Grade A (Premium Export),Passed,Machine Purchase,4800,28.3
+BATCH-2026-211,2026-04-04 15:28:20,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Mango (Mahachanok),7685.5,211,18.6,No,Grade A (Premium Export),Passed,Machine Purchase,13700,97.8
+BATCH-2026-212,2026-04-06 15:02:48,Service Startup,Harvest2Grade Tech,Durian,1697.6,47,13.5,No,Grade B (Local Market),Passed,Software Subscription,9900,32.3
+BATCH-2026-213,2026-04-06 19:03:20,Large Orchard,Khao Kitchakut Mango Estate,Mango (Mahachanok),2739.7,218,17.7,No,Grade A (Premium Export),Passed,SLA Contract,56000,34.4
+BATCH-2026-214,2026-04-07 08:20:25,Service Startup,FruitFlow Logistics Startup,Durian,544.9,44,14.3,No,Grade B (Local Market),Passed,Software Subscription,9700,10.4
+BATCH-2026-215,2026-04-07 09:28:18,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),7659.7,203,18.3,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,14620,97.6
+BATCH-2026-216,2026-04-08 08:25:52,Service Startup,"SortHub Thailand Co., Ltd.",Durian,540.6,46,15.6,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,1920,10.5
+BATCH-2026-217,2026-04-09 06:36:31,Premium Exporter,Lanna Select Fruits Export,Durian,4766.8,40,17.5,No,Grade A (Premium Export),Passed,SLA Contract,93400,95.4
+BATCH-2026-218,2026-04-10 07:39:11,Premium Exporter,Chanthaburi Prime Export,Durian,4049.3,60,15.8,No,Grade A (Premium Export),Passed,Machine Purchase,6100,82.5
+BATCH-2026-219,2026-04-10 14:10:51,Large Orchard,Uttaradit Premium Orchard,Durian,6185.5,56,14.7,No,Grade B (Local Market),Passed,Software Subscription,19500,120.4
+BATCH-2026-220,2026-04-10 15:39:09,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Mangosteen,3429.5,326,15.9,No,Grade A (Premium Export),Passed,SLA Contract,79700,53.3
+BATCH-2026-221,2026-04-11 08:33:33,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mango (Mahachanok),4280.9,223,16.5,Yes,Reject,Rejection Risk Defected,SLA Contract,38100,54.3
+BATCH-2026-222,2026-04-11 10:52:29,Agricultural Co-op,Loei Garden Fruit Co-op,Mango (Mahachanok),13567.7,199,12.4,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,30260,174.7
+BATCH-2026-223,2026-04-11 20:29:26,Service Startup,"Orchard-on-Demand Co., Ltd.",Durian,272.5,43,14.0,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1080,5.4
+BATCH-2026-224,2026-04-12 08:22:23,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Durian,6896.3,57,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,23730,133.1
+BATCH-2026-225,2026-04-12 09:33:23,Large Orchard,Nakhon Si Royal Orchard,Durian,6108.7,47,16.9,No,Grade A (Premium Export),Passed,SLA Contract,58600,116.6
+BATCH-2026-226,2026-04-13 15:07:59,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),13079.0,222,18.2,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,24060,163.3
+BATCH-2026-227,2026-04-13 17:20:25,Large Orchard,Uttaradit Premium Orchard,Durian,2417.8,47,16.6,No,Grade A (Premium Export),Passed,Software Subscription,16100,47.7
+BATCH-2026-228,2026-04-15 09:38:25,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Mango (Mahachanok),9655.2,206,18.1,No,Grade A (Premium Export),Passed,Software Subscription,34500,124.5
+BATCH-2026-229,2026-04-15 10:40:46,Service Startup,QuickSort Mobile Service,Mango (Mahachanok),658.3,170,16.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1650,8.6
+BATCH-2026-230,2026-04-15 16:59:11,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Durian,7963.2,59,15.3,No,Grade B (Local Market),Passed,Machine Purchase,12600,153.2
+BATCH-2026-231,2026-04-15 18:13:28,Large Orchard,Chumphon Emerald Orchard,Durian,3086.6,44,14.5,No,Grade B (Local Market),Passed,Pay-per-use/Rental,9680,62.4
+BATCH-2026-232,2026-04-15 21:03:04,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),5262.4,167,16.0,No,Grade A (Premium Export),Passed,Machine Purchase,14900,68.9
+BATCH-2026-233,2026-04-16 13:16:56,Agricultural Co-op,Yala Highland Fruit Co-op,Mango (Mahachanok),11172.5,256,12.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,28610,137.4
+BATCH-2026-234,2026-04-16 15:40:07,Large Orchard,Uttaradit Premium Orchard,Durian,5916.8,42,19.0,Yes,Reject,Rejection Risk Defected,Software Subscription,18400,111.9
+BATCH-2026-235,2026-04-16 17:10:06,Agricultural Co-op,Rayong Durian Farmers Co-op,Mangosteen,5894.6,268,14.5,No,Grade B (Local Market),Passed,SLA Contract,56700,94.2
+BATCH-2026-236,2026-04-17 10:14:37,Service Startup,QuickSort Mobile Service,Durian,1237.2,42,15.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,4830,24.2
+BATCH-2026-237,2026-04-17 14:18:44,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),7980.2,177,17.1,No,Grade A (Premium Export),Passed,Software Subscription,23200,100.9
+BATCH-2026-238,2026-04-17 15:27:33,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mangosteen,8387.4,305,13.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,18920,139.1
+BATCH-2026-239,2026-04-18 08:08:38,Large Orchard,Phrae Sunrise Mango Farm,Durian,6851.2,54,18.4,No,Grade A (Premium Export),Passed,Software Subscription,19600,135.1
+BATCH-2026-240,2026-04-18 09:40:32,Large Orchard,Suan Thong Durian Orchard,Mangosteen,6546.5,306,14.9,No,Grade B (Local Market),Passed,Machine Purchase,8900,102.4
+BATCH-2026-241,2026-04-18 15:49:54,Agricultural Co-op,Yala Highland Fruit Co-op,Durian,12891.1,43,15.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,50980,248.3
+BATCH-2026-242,2026-04-19 10:58:21,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),7076.6,211,18.6,No,Grade A (Premium Export),Passed,Machine Purchase,12800,90.8
+BATCH-2026-243,2026-04-19 15:11:45,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),8429.0,218,16.1,No,Grade A (Premium Export),Passed,Machine Purchase,9800,108.3
+BATCH-2026-244,2026-04-20 09:25:13,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),985.7,259,18.0,No,Grade A (Premium Export),Passed,Software Subscription,9800,12.3
+BATCH-2026-245,2026-04-20 18:26:28,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mangosteen,11001.4,282,12.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,30840,179.3
+BATCH-2026-246,2026-04-21 09:22:45,Premium Exporter,Bangkok Verdant Export,Durian,8064.2,49,18.3,No,Grade A (Premium Export),Passed,Software Subscription,23900,155.1
+BATCH-2026-247,2026-04-21 10:06:43,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,9385.6,47,18.6,No,Grade A (Premium Export),Passed,Machine Purchase,11600,182.4
+BATCH-2026-248,2026-04-21 13:01:59,Premium Exporter,Bangkok Verdant Export,Durian,3610.7,56,18.0,No,Grade A (Premium Export),Passed,Software Subscription,25500,69.1
+BATCH-2026-249,2026-04-22 09:43:31,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),7135.1,218,19.0,No,Grade A (Premium Export),Passed,SLA Contract,109400,86.9
+BATCH-2026-250,2026-04-22 10:55:09,Agricultural Co-op,Yala Highland Fruit Co-op,Mango (Mahachanok),4225.6,191,16.0,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,9670,53.7
+BATCH-2026-251,2026-04-22 13:21:01,Premium Exporter,Thai Royal Harvest International,Durian,7680.1,61,16.6,No,Grade A (Premium Export),Passed,SLA Contract,75900,154.3
+BATCH-2026-252,2026-04-23 17:21:28,Agricultural Co-op,Yala Highland Fruit Co-op,Durian,4373.7,42,14.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,14030,84.8
+BATCH-2026-253,2026-04-23 18:28:34,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),11500.9,197,11.8,No,Grade B (Local Market),Passed,SLA Contract,50900,139.8
+BATCH-2026-254,2026-04-23 19:08:20,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),4530.9,206,14.8,No,Grade B (Local Market),Passed,Software Subscription,12600,58.4
+BATCH-2026-255,2026-04-23 19:08:53,Large Orchard,Nakhon Si Royal Orchard,Durian,5144.0,50,19.0,No,Grade A (Premium Export),Passed,SLA Contract,82300,100.6
+BATCH-2026-256,2026-04-23 20:33:32,Agricultural Co-op,Yala Highland Fruit Co-op,Mango (Mahachanok),13815.7,173,12.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,34270,180.9
+BATCH-2026-257,2026-04-24 09:17:18,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),6388.6,252,14.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,14120,82.3
+BATCH-2026-258,2026-04-24 16:58:54,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),5717.4,264,17.4,No,Grade A (Premium Export),Passed,SLA Contract,102000,70.5
+BATCH-2026-259,2026-04-25 11:45:18,Premium Exporter,Lanna Select Fruits Export,Durian,6869.4,48,17.6,No,Grade A (Premium Export),Passed,SLA Contract,119600,137.4
+BATCH-2026-260,2026-04-25 19:12:33,Large Orchard,Suan Thong Durian Orchard,Mangosteen,1007.1,328,19.7,No,Grade A (Premium Export),Passed,Machine Purchase,3500,15.8
+BATCH-2026-261,2026-04-27 08:55:17,Agricultural Co-op,Nakhon Sawan Mango Co-op,Durian,13316.7,53,16.2,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,40210,266.7
+BATCH-2026-262,2026-04-27 09:48:14,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),3735.1,254,13.5,No,Grade B (Local Market),Passed,Pay-per-use/Rental,7600,48.9
+BATCH-2026-263,2026-04-27 12:49:36,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Durian,10280.0,45,19.2,No,Grade A (Premium Export),Passed,Software Subscription,28200,201.4
+BATCH-2026-264,2026-04-27 13:39:04,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),5736.8,215,13.0,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,12850,74.0
+BATCH-2026-265,2026-04-27 16:17:11,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1126.4,187,16.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,2870,14.3
+BATCH-2026-266,2026-04-27 19:40:39,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,7221.2,53,16.1,No,Grade A (Premium Export),Passed,SLA Contract,119600,138.6
+BATCH-2026-267,2026-04-28 15:14:49,Agricultural Co-op,Yala Highland Fruit Co-op,Mango (Mahachanok),5416.2,249,16.3,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,11770,66.9
+BATCH-2026-268,2026-04-28 18:08:53,Premium Exporter,Bangkok Verdant Export,Mango (Mahachanok),11234.0,218,17.9,No,Grade A (Premium Export),Passed,Software Subscription,28100,145.6
+BATCH-2026-269,2026-04-28 19:06:02,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),6298.3,214,17.0,No,Grade A (Premium Export),Passed,Machine Purchase,5200,78.0
+BATCH-2026-270,2026-04-29 06:02:47,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),12215.4,160,14.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,29530,156.2
+BATCH-2026-271,2026-04-29 09:26:16,Service Startup,Harvest2Grade Tech,Durian,261.0,36,16.7,No,Grade A (Premium Export),Passed,Software Subscription,9400,5.0
+BATCH-2026-272,2026-04-29 11:03:59,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Mango (Mahachanok),7910.4,221,16.7,No,Grade A (Premium Export),Passed,Machine Purchase,6400,103.5
+BATCH-2026-273,2026-04-30 16:25:05,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,3495.0,237,17.2,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,9550,56.2
+BATCH-2026-274,2026-04-30 18:32:19,Large Orchard,Phrae Sunrise Mango Farm,Durian,6576.1,60,17.3,Yes,Reject,Rejection Risk Defected,Software Subscription,17700,133.6
+BATCH-2026-275,2026-05-01 08:20:09,Agricultural Co-op,Surat Thani Fruit Cooperative,Durian,7024.1,42,15.3,Yes,Reject,Rejection Risk Defected,Software Subscription,13200,135.4
+BATCH-2026-276,2026-05-01 14:00:34,Service Startup,QuickSort Mobile Service,Mangosteen,1253.2,225,15.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,3430,19.5
+BATCH-2026-277,2026-05-02 10:15:02,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,4510.6,46,17.2,No,Grade A (Premium Export),Passed,SLA Contract,117000,85.3
+BATCH-2026-278,2026-05-02 16:11:54,Large Orchard,Uttaradit Premium Orchard,Mangosteen,4421.6,229,18.3,No,Grade A (Premium Export),Passed,Software Subscription,14200,72.4
+BATCH-2026-279,2026-05-03 09:16:31,Agricultural Co-op,Yala Highland Fruit Co-op,Durian,5796.0,49,17.4,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,19710,111.0
+BATCH-2026-280,2026-05-04 09:56:29,Large Orchard,Khao Kitchakut Mango Estate,Durian,4234.3,38,15.7,No,Grade A (Premium Export),Passed,SLA Contract,63000,82.2
+BATCH-2026-281,2026-05-04 10:41:49,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),6161.5,239,18.7,No,Grade A (Premium Export),Passed,SLA Contract,113900,79.1
+BATCH-2026-282,2026-05-04 11:38:19,Large Orchard,Nakhon Si Royal Orchard,Durian,2640.1,46,18.8,No,Grade A (Premium Export),Passed,SLA Contract,86400,50.7
+BATCH-2026-283,2026-05-04 11:49:57,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mangosteen,14045.9,261,16.2,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,36180,229.2
+BATCH-2026-284,2026-05-04 16:27:50,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mango (Mahachanok),3452.3,180,15.8,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,8930,44.1
+BATCH-2026-285,2026-05-05 10:02:29,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),1958.3,161,17.2,No,Grade A (Premium Export),Passed,Machine Purchase,7800,25.4
+BATCH-2026-286,2026-05-07 08:23:50,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,9732.6,281,14.6,No,Grade B (Local Market),Passed,Pay-per-use/Rental,22420,152.6
+BATCH-2026-287,2026-05-07 11:13:37,Premium Exporter,Chanthaburi Prime Export,Durian,3919.0,39,16.8,No,Grade A (Premium Export),Passed,Machine Purchase,4100,79.5
+BATCH-2026-288,2026-05-07 14:45:18,Large Orchard,Phrae Sunrise Mango Farm,Durian,3580.3,56,16.0,No,Grade A (Premium Export),Passed,Software Subscription,22400,71.2
+BATCH-2026-289,2026-05-07 16:42:16,Large Orchard,Nakhon Si Royal Orchard,Durian,4095.6,37,16.6,No,Grade A (Premium Export),Passed,SLA Contract,88400,78.5
+BATCH-2026-290,2026-05-08 08:01:55,Service Startup,"AgriGrade Services Co., Ltd.",Durian,741.8,40,16.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,2460,14.6
+BATCH-2026-291,2026-05-08 10:03:37,Premium Exporter,Thai Royal Harvest International,Durian,9903.9,60,18.4,No,Grade A (Premium Export),Passed,SLA Contract,71600,189.7
+BATCH-2026-292,2026-05-08 16:00:20,Premium Exporter,Thai Royal Harvest International,Durian,3167.5,56,15.6,No,Grade A (Premium Export),Passed,SLA Contract,118000,61.7
+BATCH-2026-293,2026-05-09 08:39:41,Premium Exporter,Bangkok Verdant Export,Durian,11212.2,55,17.8,No,Grade A (Premium Export),Passed,Software Subscription,22100,227.0
+BATCH-2026-294,2026-05-09 09:26:59,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,4698.3,57,16.7,No,Grade A (Premium Export),Passed,Machine Purchase,7800,90.9
+BATCH-2026-295,2026-05-09 13:24:06,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,469.7,328,18.3,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1010,7.5
+BATCH-2026-296,2026-05-09 14:20:51,Large Orchard,Chumphon Emerald Orchard,Durian,2919.9,47,19.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,9690,57.5
+BATCH-2026-297,2026-05-10 14:19:19,Large Orchard,Phrae Sunrise Mango Farm,Durian,1715.3,35,16.2,No,Grade A (Premium Export),Passed,Software Subscription,15900,32.6
+BATCH-2026-298,2026-05-10 14:45:56,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Mango (Mahachanok),8355.2,273,18.1,No,Grade A (Premium Export),Passed,Software Subscription,25300,106.6
+BATCH-2026-299,2026-05-11 06:08:33,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),12033.5,181,15.6,Yes,Reject,Rejection Risk Defected,Machine Purchase,11000,147.3
+BATCH-2026-300,2026-05-11 06:55:56,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,7379.6,55,16.7,No,Grade A (Premium Export),Passed,SLA Contract,99900,144.4
+BATCH-2026-301,2026-05-11 13:09:52,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),303.2,160,15.0,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,710,3.8
+BATCH-2026-302,2026-05-11 17:05:35,Large Orchard,Chumphon Emerald Orchard,Durian,1503.7,46,16.2,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,5690,28.9
+BATCH-2026-303,2026-05-11 21:24:29,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Durian,9133.1,47,13.1,No,Grade B (Local Market),Passed,Machine Purchase,14400,174.7
+BATCH-2026-304,2026-05-11 22:32:31,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mangosteen,10617.3,249,16.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,30110,166.3
+BATCH-2026-305,2026-05-12 07:07:47,Premium Exporter,Bangkok Verdant Export,Durian,2292.2,50,17.5,No,Grade A (Premium Export),Passed,Software Subscription,28600,46.0
+BATCH-2026-306,2026-05-13 11:06:51,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,444.9,326,13.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1080,7.0
+BATCH-2026-307,2026-05-13 11:29:35,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),3254.8,235,16.8,No,Grade A (Premium Export),Passed,SLA Contract,104300,41.1
+BATCH-2026-308,2026-05-13 18:06:38,Large Orchard,Uttaradit Premium Orchard,Durian,3511.3,35,16.9,No,Grade A (Premium Export),Passed,Software Subscription,17700,68.6
+BATCH-2026-309,2026-05-14 08:37:49,Service Startup,FruitFlow Logistics Startup,Durian,763.2,48,16.5,No,Grade A (Premium Export),Passed,Software Subscription,8800,14.5
+BATCH-2026-310,2026-05-14 12:50:11,Service Startup,Harvest2Grade Tech,Mangosteen,1850.3,302,13.0,No,Grade B (Local Market),Passed,Software Subscription,7500,30.0
+BATCH-2026-311,2026-05-14 13:01:54,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),3164.9,194,16.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,7800,40.6
+BATCH-2026-312,2026-05-14 14:10:35,Service Startup,Harvest2Grade Tech,Mangosteen,855.2,227,12.7,No,Grade B (Local Market),Passed,Software Subscription,8000,13.6
+BATCH-2026-313,2026-05-15 11:03:56,Service Startup,"AgriGrade Services Co., Ltd.",Mangosteen,1793.2,323,14.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,4530,29.4
+BATCH-2026-314,2026-05-15 19:51:45,Premium Exporter,Lanna Select Fruits Export,Durian,3000.5,45,18.1,No,Grade A (Premium Export),Passed,SLA Contract,108000,57.4
+BATCH-2026-315,2026-05-16 15:20:53,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,11343.6,59,16.8,No,Grade A (Premium Export),Passed,SLA Contract,115700,224.7
+BATCH-2026-316,2026-05-16 17:43:58,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,9198.9,44,17.1,No,Grade A (Premium Export),Passed,SLA Contract,115800,177.1
+BATCH-2026-317,2026-05-17 13:45:52,Large Orchard,Phrae Sunrise Mango Farm,Durian,7674.5,38,17.4,No,Grade A (Premium Export),Passed,Software Subscription,19900,145.7
+BATCH-2026-318,2026-05-17 18:44:39,Service Startup,"AgriGrade Services Co., Ltd.",Mangosteen,1781.8,263,13.4,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,3780,29.6
+BATCH-2026-319,2026-05-18 09:43:58,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,11834.4,52,17.0,No,Grade A (Premium Export),Passed,SLA Contract,116100,229.3
+BATCH-2026-320,2026-05-18 14:59:17,Agricultural Co-op,Trat Orchard Alliance Co-op,Durian,12720.8,38,14.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,45990,246.1
+BATCH-2026-321,2026-05-19 14:08:43,Agricultural Co-op,Trat Orchard Alliance Co-op,Durian,10085.0,37,17.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,36420,190.7
+BATCH-2026-322,2026-05-19 20:57:28,Agricultural Co-op,Trat Orchard Alliance Co-op,Mangosteen,9977.9,329,18.0,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,28660,158.9
+BATCH-2026-323,2026-05-20 08:29:34,Agricultural Co-op,Yala Highland Fruit Co-op,Mangosteen,11453.3,230,10.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,29410,189.4
+BATCH-2026-324,2026-05-20 16:23:37,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Durian,4129.2,61,17.0,No,Grade A (Premium Export),Passed,Software Subscription,30500,83.7
+BATCH-2026-325,2026-05-21 13:38:49,Service Startup,QuickSort Mobile Service,Mangosteen,1929.8,304,14.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,5700,30.0
+BATCH-2026-326,2026-05-21 14:47:45,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,10424.7,40,16.4,No,Grade A (Premium Export),Passed,SLA Contract,117700,196.9
+BATCH-2026-327,2026-05-21 18:52:54,Large Orchard,Suan Thong Durian Orchard,Durian,4960.3,41,17.6,No,Grade A (Premium Export),Passed,Machine Purchase,7400,98.0
+BATCH-2026-328,2026-05-22 11:38:21,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,8868.6,57,17.8,No,Grade A (Premium Export),Passed,Machine Purchase,8000,178.7
+BATCH-2026-329,2026-05-22 13:43:43,Large Orchard,Chumphon Emerald Orchard,Mangosteen,7446.8,281,13.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,17250,123.1
+BATCH-2026-330,2026-05-22 13:44:15,Service Startup,QuickSort Mobile Service,Durian,1018.8,56,11.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3280,20.2
+BATCH-2026-331,2026-05-23 10:23:29,Premium Exporter,Chanthaburi Prime Export,Durian,7865.8,40,17.4,No,Grade A (Premium Export),Passed,Machine Purchase,10700,151.4
+BATCH-2026-332,2026-05-23 10:27:01,Service Startup,"AgriGrade Services Co., Ltd.",Mangosteen,1219.7,269,15.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,2650,19.6
+BATCH-2026-333,2026-05-23 13:15:29,Large Orchard,Trat Mangosteen Highland Farm,Mangosteen,4568.3,313,12.7,No,Grade B (Local Market),Passed,Machine Purchase,10400,72.6
+BATCH-2026-334,2026-05-23 18:27:35,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),12681.3,213,15.0,No,Grade B (Local Market),Passed,SLA Contract,44600,154.6
+BATCH-2026-335,2026-05-25 10:31:38,Agricultural Co-op,Surat Thani Fruit Cooperative,Durian,10740.7,42,14.7,No,Grade B (Local Market),Passed,Software Subscription,10400,212.4
+BATCH-2026-336,2026-05-25 17:35:09,Service Startup,Harvest2Grade Tech,Mangosteen,512.1,246,13.9,Yes,Reject,Rejection Risk Defected,Software Subscription,11200,8.4
+BATCH-2026-337,2026-05-26 16:11:50,Service Startup,QuickSort Mobile Service,Durian,1177.3,53,16.5,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,4180,22.6
+BATCH-2026-338,2026-05-27 13:03:07,Agricultural Co-op,Trat Orchard Alliance Co-op,Durian,4606.4,51,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,14090,93.1
+BATCH-2026-339,2026-05-27 13:06:17,Premium Exporter,Chanthaburi Prime Export,Durian,5190.5,54,18.3,No,Grade A (Premium Export),Passed,Machine Purchase,5900,102.9
+BATCH-2026-340,2026-05-27 13:27:55,Service Startup,FruitFlow Logistics Startup,Durian,1271.5,45,13.7,No,Grade B (Local Market),Passed,Software Subscription,9400,25.8
+BATCH-2026-341,2026-05-27 13:28:04,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Durian,6379.2,45,18.1,No,Grade A (Premium Export),Passed,Software Subscription,27400,127.1
+BATCH-2026-342,2026-05-27 14:59:35,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,4332.9,256,16.8,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,9620,67.2
+BATCH-2026-343,2026-05-28 08:16:41,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Durian,14964.2,40,15.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,53630,303.9
+BATCH-2026-344,2026-05-28 13:03:29,Large Orchard,Nakhon Si Royal Orchard,Durian,2287.5,54,17.7,No,Grade A (Premium Export),Passed,SLA Contract,61800,45.2
+BATCH-2026-345,2026-05-28 15:31:42,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1859.6,199,14.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3670,23.7
+BATCH-2026-346,2026-05-29 08:56:56,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Durian,7026.1,55,17.7,No,Grade A (Premium Export),Passed,Software Subscription,24600,141.6
+BATCH-2026-347,2026-05-29 10:02:35,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),7178.1,162,14.1,No,Grade B (Local Market),Passed,SLA Contract,37600,94.1
+BATCH-2026-348,2026-05-29 18:47:59,Agricultural Co-op,Trat Orchard Alliance Co-op,Mango (Mahachanok),6836.4,207,14.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,13510,86.3
+BATCH-2026-349,2026-05-29 19:51:49,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),7978.1,246,18.2,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,15530,97.5
+BATCH-2026-350,2026-05-30 08:58:32,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,4886.7,51,17.7,No,Grade A (Premium Export),Passed,SLA Contract,114100,95.9
+BATCH-2026-351,2026-05-30 09:22:37,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,6748.4,46,16.5,No,Grade A (Premium Export),Passed,SLA Contract,81600,129.0
+BATCH-2026-352,2026-05-30 11:37:19,Agricultural Co-op,Surat Thani Fruit Cooperative,Mangosteen,11404.7,238,15.8,No,Grade A (Premium Export),Passed,Software Subscription,14200,179.7
+BATCH-2026-353,2026-06-01 14:03:26,Premium Exporter,Chanthaburi Prime Export,Durian,10787.9,50,19.0,No,Grade A (Premium Export),Passed,Machine Purchase,5400,218.0
+BATCH-2026-354,2026-06-01 17:50:24,Agricultural Co-op,Loei Garden Fruit Co-op,Durian,13181.8,38,16.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,42640,254.7
+BATCH-2026-355,2026-06-02 15:09:54,Service Startup,FruitFlow Logistics Startup,Mangosteen,1035.9,300,14.2,No,Grade B (Local Market),Passed,Software Subscription,10500,16.3
+BATCH-2026-356,2026-06-02 15:19:55,Large Orchard,Uttaradit Premium Orchard,Mango (Mahachanok),6122.2,204,17.3,No,Grade A (Premium Export),Passed,Software Subscription,20800,78.9
+BATCH-2026-357,2026-06-02 17:30:00,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,839.1,225,16.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,2500,13.0
+BATCH-2026-358,2026-06-03 15:58:23,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,11938.1,283,14.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,32290,199.4
+BATCH-2026-359,2026-06-04 14:30:00,Service Startup,"SortHub Thailand Co., Ltd.",Mangosteen,674.0,260,13.5,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1590,10.6
+BATCH-2026-360,2026-06-04 16:22:53,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Durian,3395.8,36,16.1,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,10230,65.0
+BATCH-2026-361,2026-06-05 14:57:15,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Durian,11008.5,60,13.7,No,Grade B (Local Market),Passed,Machine Purchase,14500,223.3
+BATCH-2026-362,2026-06-05 15:09:55,Premium Exporter,Bangkok Verdant Export,Durian,4731.5,49,17.4,No,Grade A (Premium Export),Passed,Software Subscription,31200,94.1
+BATCH-2026-363,2026-06-05 21:43:48,Large Orchard,Phrae Sunrise Mango Farm,Mangosteen,3395.3,272,18.0,No,Grade A (Premium Export),Passed,Software Subscription,17700,53.5
+BATCH-2026-364,2026-06-06 10:10:59,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),11405.2,253,16.8,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,20700,139.7
+BATCH-2026-365,2026-06-06 10:55:34,Agricultural Co-op,Rayong Durian Farmers Co-op,Durian,13448.1,35,15.1,No,Grade B (Local Market),Passed,SLA Contract,48000,254.7
+BATCH-2026-366,2026-06-06 14:40:52,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Durian,6414.3,57,15.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,20600,130.0
+BATCH-2026-367,2026-06-06 14:54:06,Large Orchard,Phrae Sunrise Mango Farm,Mangosteen,2679.1,298,14.8,No,Grade B (Local Market),Passed,Software Subscription,18600,42.8
+BATCH-2026-368,2026-06-06 16:49:12,Large Orchard,Uttaradit Premium Orchard,Mangosteen,2816.4,253,16.6,No,Grade A (Premium Export),Passed,Software Subscription,21700,44.4
+BATCH-2026-369,2026-06-08 07:23:52,Agricultural Co-op,Surat Thani Fruit Cooperative,Durian,14528.0,57,16.9,No,Grade A (Premium Export),Passed,Software Subscription,17800,283.9
+BATCH-2026-370,2026-06-08 11:32:34,Service Startup,"SortHub Thailand Co., Ltd.",Durian,1645.0,60,13.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,6140,31.9
+BATCH-2026-371,2026-06-08 14:18:27,Premium Exporter,Bangkok Verdant Export,Durian,5906.6,46,17.2,No,Grade A (Premium Export),Passed,Software Subscription,27500,113.3
+BATCH-2026-372,2026-06-09 07:38:00,Service Startup,FruitFlow Logistics Startup,Durian,1866.7,40,16.1,No,Grade A (Premium Export),Passed,Software Subscription,9100,37.9
+BATCH-2026-373,2026-06-09 08:48:42,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),12747.8,252,17.7,No,Grade A (Premium Export),Passed,SLA Contract,36000,156.6
+BATCH-2026-374,2026-06-09 11:50:08,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),4139.5,170,16.6,No,Grade A (Premium Export),Passed,Machine Purchase,9000,51.0
+BATCH-2026-375,2026-06-09 12:42:50,Agricultural Co-op,Surat Thani Fruit Cooperative,Durian,13824.7,37,14.9,No,Grade B (Local Market),Passed,Software Subscription,13900,267.8
+BATCH-2026-376,2026-06-10 15:49:33,Large Orchard,Rayong Golden Garden Orchard,Mangosteen,2431.0,265,15.0,No,Grade B (Local Market),Passed,Software Subscription,24100,38.2
+BATCH-2026-377,2026-06-11 09:54:06,Large Orchard,Phrae Sunrise Mango Farm,Durian,3507.0,53,13.7,No,Grade B (Local Market),Passed,Software Subscription,23800,66.5
+BATCH-2026-378,2026-06-11 10:02:45,Agricultural Co-op,Nakhon Sawan Mango Co-op,Durian,6955.6,50,14.0,No,Grade B (Local Market),Passed,Pay-per-use/Rental,27280,134.1
+BATCH-2026-379,2026-06-11 12:23:44,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),3669.1,214,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,9490,47.5
+BATCH-2026-380,2026-06-11 17:38:07,Large Orchard,Uttaradit Premium Orchard,Durian,4825.3,40,16.1,No,Grade A (Premium Export),Passed,Software Subscription,17800,94.8
+BATCH-2026-381,2026-06-12 11:32:42,Large Orchard,Khao Kitchakut Mango Estate,Mangosteen,1418.9,263,12.9,No,Grade B (Local Market),Passed,SLA Contract,49800,22.0
+BATCH-2026-382,2026-06-12 11:49:19,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mango (Mahachanok),10954.8,184,15.4,No,Grade B (Local Market),Passed,SLA Contract,69600,141.5
+BATCH-2026-383,2026-06-12 14:26:16,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,9319.7,44,19.2,No,Grade A (Premium Export),Passed,SLA Contract,105600,188.6
+BATCH-2026-384,2026-06-13 09:56:04,Large Orchard,Nakhon Si Royal Orchard,Durian,5169.4,60,14.1,No,Grade B (Local Market),Passed,SLA Contract,75600,105.2
+BATCH-2026-385,2026-06-14 14:02:20,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,3068.0,59,16.6,No,Grade A (Premium Export),Passed,SLA Contract,92400,58.7
+BATCH-2026-386,2026-06-14 15:04:09,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,7539.1,61,17.2,No,Grade A (Premium Export),Passed,SLA Contract,113100,147.0
+BATCH-2026-387,2026-06-14 18:26:24,Large Orchard,Khao Kitchakut Mango Estate,Durian,6562.7,58,16.2,Yes,Reject,Rejection Risk Defected,SLA Contract,74200,131.2
+BATCH-2026-388,2026-06-15 10:30:17,Large Orchard,Phrae Sunrise Mango Farm,Durian,3684.6,41,12.7,No,Grade B (Local Market),Passed,Software Subscription,15900,74.1
+BATCH-2026-389,2026-06-15 11:37:08,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Mango (Mahachanok),5534.5,204,17.6,No,Grade A (Premium Export),Passed,SLA Contract,106600,70.3
+BATCH-2026-390,2026-06-15 13:15:59,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),11631.0,201,17.6,No,Grade A (Premium Export),Passed,SLA Contract,110900,148.5
+BATCH-2026-391,2026-06-16 07:03:52,Premium Exporter,Thai Royal Harvest International,Durian,9931.5,49,17.9,No,Grade A (Premium Export),Passed,SLA Contract,118600,199.5
+BATCH-2026-392,2026-06-16 09:58:56,Large Orchard,Khao Kitchakut Mango Estate,Durian,7204.4,52,17.3,No,Grade A (Premium Export),Passed,SLA Contract,87000,141.0
+BATCH-2026-393,2026-06-16 18:46:23,Premium Exporter,Chanthaburi Prime Export,Durian,3687.8,51,18.5,No,Grade A (Premium Export),Passed,Machine Purchase,12000,71.1
+BATCH-2026-394,2026-06-18 08:24:00,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,2893.7,43,18.5,No,Grade A (Premium Export),Passed,Machine Purchase,3700,56.7
+BATCH-2026-395,2026-06-19 07:46:44,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mangosteen,5591.3,271,13.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,15610,87.4
+BATCH-2026-396,2026-06-20 08:39:06,Large Orchard,Nakhon Si Royal Orchard,Durian,5959.8,37,17.4,No,Grade A (Premium Export),Passed,SLA Contract,69700,119.1
+BATCH-2026-397,2026-06-20 10:15:28,Agricultural Co-op,Nakhon Sawan Mango Co-op,Durian,5573.1,51,19.2,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,18020,107.0
+BATCH-2026-398,2026-06-20 13:44:31,Service Startup,"SortHub Thailand Co., Ltd.",Mangosteen,1115.2,251,14.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2760,18.3
+BATCH-2026-399,2026-06-20 14:14:01,Large Orchard,Trat Mangosteen Highland Farm,Durian,1669.1,36,17.8,No,Grade A (Premium Export),Passed,Machine Purchase,12800,31.9
+BATCH-2026-400,2026-06-21 12:14:41,Premium Exporter,Lanna Select Fruits Export,Mangosteen,10062.9,264,16.7,No,Grade A (Premium Export),Passed,SLA Contract,89500,164.3
+BATCH-2026-401,2026-06-23 15:16:49,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),980.8,189,17.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,2190,12.1
+BATCH-2026-402,2026-06-23 15:56:17,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,9368.1,51,17.6,No,Grade A (Premium Export),Passed,SLA Contract,97800,185.3
+BATCH-2026-403,2026-06-23 21:15:32,Service Startup,"Orchard-on-Demand Co., Ltd.",Durian,1907.5,45,12.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,6240,37.5
+BATCH-2026-404,2026-06-24 09:00:06,Large Orchard,Khao Kitchakut Mango Estate,Durian,2723.0,54,13.5,No,Grade B (Local Market),Passed,SLA Contract,75400,55.7
+BATCH-2026-405,2026-06-24 09:51:37,Premium Exporter,Bangkok Verdant Export,Durian,9883.0,59,16.3,No,Grade A (Premium Export),Passed,Software Subscription,23100,197.5
+BATCH-2026-406,2026-06-25 22:55:08,Premium Exporter,Thai Royal Harvest International,Durian,10939.2,42,16.5,No,Grade A (Premium Export),Passed,SLA Contract,90300,212.1
+BATCH-2026-407,2026-06-28 10:24:31,Large Orchard,Suan Thong Durian Orchard,Durian,7958.2,40,15.4,No,Grade B (Local Market),Passed,Machine Purchase,12900,154.9
+BATCH-2026-408,2026-06-28 17:42:27,Agricultural Co-op,Trat Orchard Alliance Co-op,Durian,12507.1,42,12.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,43910,239.3
+BATCH-2026-409,2026-06-29 08:00:25,Large Orchard,Suan Thong Durian Orchard,Durian,7991.5,60,18.3,No,Grade A (Premium Export),Passed,Machine Purchase,11900,152.0
+BATCH-2026-410,2026-06-29 11:13:39,Large Orchard,Uttaradit Premium Orchard,Durian,6994.4,55,14.8,Yes,Reject,Rejection Risk Defected,Software Subscription,12100,142.9
+BATCH-2026-411,2026-06-29 13:11:16,Service Startup,"AgriGrade Services Co., Ltd.",Mangosteen,422.8,271,13.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1170,6.9
+BATCH-2026-412,2026-06-30 09:08:17,Premium Exporter,Chanthaburi Prime Export,Mangosteen,9884.6,260,16.9,No,Grade A (Premium Export),Passed,Machine Purchase,13500,158.5
+BATCH-2026-413,2026-06-30 13:24:50,Service Startup,Harvest2Grade Tech,Mangosteen,1241.2,295,13.6,No,Grade B (Local Market),Passed,Software Subscription,9000,19.9
+BATCH-2026-414,2026-07-01 08:21:46,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,11704.2,37,17.0,No,Grade A (Premium Export),Passed,SLA Contract,87800,223.2
+BATCH-2026-415,2026-07-01 16:42:32,Large Orchard,Uttaradit Premium Orchard,Mangosteen,1835.5,265,16.9,No,Grade A (Premium Export),Passed,Software Subscription,15400,28.7
+BATCH-2026-416,2026-07-02 09:16:19,Service Startup,Harvest2Grade Tech,Mangosteen,755.7,234,15.5,No,Grade A (Premium Export),Passed,Software Subscription,8200,12.6
+BATCH-2026-417,2026-07-02 14:43:44,Premium Exporter,Lanna Select Fruits Export,Durian,3942.6,43,18.6,No,Grade A (Premium Export),Passed,SLA Contract,76800,75.6
+BATCH-2026-418,2026-07-02 15:09:04,Premium Exporter,Lanna Select Fruits Export,Mangosteen,7844.7,241,16.7,No,Grade A (Premium Export),Passed,SLA Contract,93700,125.6
+BATCH-2026-419,2026-07-03 14:18:21,Service Startup,"AgriGrade Services Co., Ltd.",Durian,206.5,60,12.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,640,4.1
+BATCH-2026-420,2026-07-03 15:10:54,Premium Exporter,Thai Royal Harvest International,Durian,8178.1,48,16.6,No,Grade A (Premium Export),Passed,SLA Contract,97200,158.3
+BATCH-2026-421,2026-07-03 15:43:21,Service Startup,"AgriGrade Services Co., Ltd.",Mangosteen,971.4,258,12.6,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2430,15.5
+BATCH-2026-422,2026-07-03 16:19:38,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mangosteen,14551.4,310,15.6,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,36000,225.1
+BATCH-2026-423,2026-07-03 16:49:27,Service Startup,"AgriGrade Services Co., Ltd.",Durian,1887.1,51,15.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,6570,37.8
+BATCH-2026-424,2026-07-04 11:03:02,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mangosteen,4488.5,254,18.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,11070,73.9
+BATCH-2026-425,2026-07-05 13:59:33,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),1039.6,186,12.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1970,12.9
+BATCH-2026-426,2026-07-06 07:56:22,Agricultural Co-op,Surat Thani Fruit Cooperative,Durian,12004.7,54,15.2,No,Grade B (Local Market),Passed,Software Subscription,12700,232.9
+BATCH-2026-427,2026-07-07 14:43:48,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mangosteen,7383.8,273,13.3,No,Grade B (Local Market),Passed,Machine Purchase,7200,116.0
+BATCH-2026-428,2026-07-07 15:42:55,Large Orchard,Phrae Sunrise Mango Farm,Mango (Mahachanok),4675.5,199,15.9,No,Grade A (Premium Export),Passed,Software Subscription,12700,59.7
+BATCH-2026-429,2026-07-07 17:56:45,Agricultural Co-op,Nakhon Sawan Mango Co-op,Durian,4307.8,36,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,13260,87.5
+BATCH-2026-430,2026-07-07 19:34:26,Premium Exporter,Thai Royal Harvest International,Durian,6290.1,44,17.8,No,Grade A (Premium Export),Passed,SLA Contract,93000,124.9
+BATCH-2026-431,2026-07-09 08:12:11,Premium Exporter,Bangkok Verdant Export,Durian,7167.4,55,17.8,No,Grade A (Premium Export),Passed,Software Subscription,25200,145.1
+BATCH-2026-432,2026-07-09 09:44:51,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Durian,7579.9,36,14.6,No,Grade B (Local Market),Passed,Pay-per-use/Rental,28510,148.1
+BATCH-2026-433,2026-07-09 14:09:38,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,1975.3,288,12.4,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,5070,31.2
+BATCH-2026-434,2026-07-09 17:33:54,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Durian,8264.8,59,15.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,27950,161.0
+BATCH-2026-435,2026-07-10 09:33:30,Premium Exporter,Thai Royal Harvest International,Durian,5487.3,57,19.1,No,Grade A (Premium Export),Passed,SLA Contract,101500,108.3
+BATCH-2026-436,2026-07-11 11:16:00,Service Startup,"AgriGrade Services Co., Ltd.",Mangosteen,1054.0,317,15.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2430,17.0
+BATCH-2026-437,2026-07-11 12:42:43,Large Orchard,Rayong Golden Garden Orchard,Mangosteen,2112.1,295,14.9,No,Grade B (Local Market),Passed,Software Subscription,20500,34.0
+BATCH-2026-438,2026-07-13 13:15:04,Premium Exporter,Bangkok Verdant Export,Durian,11566.7,45,15.7,No,Grade A (Premium Export),Passed,Software Subscription,23200,232.6
+BATCH-2026-439,2026-07-13 14:45:05,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mangosteen,12678.7,240,13.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,36090,203.2
+BATCH-2026-440,2026-07-13 19:50:40,Agricultural Co-op,Yala Highland Fruit Co-op,Durian,3358.2,40,15.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,10340,65.0
+BATCH-2026-441,2026-07-14 11:07:13,Premium Exporter,Chanthaburi Prime Export,Durian,3122.2,39,16.9,No,Grade A (Premium Export),Passed,Machine Purchase,3500,60.6
+BATCH-2026-442,2026-07-14 12:43:44,Large Orchard,Trat Mangosteen Highland Farm,Mangosteen,1256.5,257,12.2,No,Grade B (Local Market),Passed,Machine Purchase,10900,19.8
+BATCH-2026-443,2026-07-14 15:26:05,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mangosteen,10858.3,278,15.8,No,Grade A (Premium Export),Passed,Machine Purchase,7800,177.1
+BATCH-2026-444,2026-07-14 19:04:34,Service Startup,"AgriGrade Services Co., Ltd.",Mangosteen,1049.9,300,15.2,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2300,17.4
+BATCH-2026-445,2026-07-15 15:57:16,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,9007.0,59,19.8,No,Grade A (Premium Export),Passed,SLA Contract,118300,176.4
+BATCH-2026-446,2026-07-15 17:50:42,Agricultural Co-op,Trat Orchard Alliance Co-op,Durian,6363.6,47,16.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,19380,123.7
+BATCH-2026-447,2026-07-15 18:46:42,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,10653.3,54,18.2,No,Grade A (Premium Export),Passed,Machine Purchase,10100,208.1
+BATCH-2026-448,2026-07-17 10:04:28,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,9947.1,54,18.4,No,Grade A (Premium Export),Passed,SLA Contract,106000,192.6
+BATCH-2026-449,2026-07-18 07:12:44,Large Orchard,Phrae Sunrise Mango Farm,Durian,1569.8,53,15.6,No,Grade A (Premium Export),Passed,Software Subscription,14800,31.8
+BATCH-2026-450,2026-07-18 08:55:23,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),3425.0,193,17.5,No,Grade A (Premium Export),Passed,Machine Purchase,4900,42.8
+BATCH-2026-451,2026-07-18 14:47:27,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,3707.8,60,19.0,No,Grade A (Premium Export),Passed,SLA Contract,93300,73.1
+BATCH-2026-452,2026-07-19 08:37:42,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mangosteen,14972.1,319,11.5,No,Grade B (Local Market),Passed,SLA Contract,43200,239.3
+BATCH-2026-453,2026-07-20 07:09:07,Large Orchard,Chumphon Emerald Orchard,Durian,2576.4,59,16.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,7800,50.8
+BATCH-2026-454,2026-07-20 14:48:12,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),7834.1,208,17.5,No,Grade A (Premium Export),Passed,SLA Contract,106800,101.7
+BATCH-2026-455,2026-07-20 16:42:15,Service Startup,"AgriGrade Services Co., Ltd.",Mangosteen,504.4,234,17.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1220,7.8
+BATCH-2026-456,2026-07-20 19:21:07,Agricultural Co-op,Prachinburi Smart Growers Co-op,Durian,7683.2,53,16.8,No,Grade A (Premium Export),Passed,SLA Contract,36100,147.5
+BATCH-2026-457,2026-07-22 08:26:39,Service Startup,"AgriGrade Services Co., Ltd.",Durian,1936.2,43,15.6,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,6780,38.0
+BATCH-2026-458,2026-07-22 09:28:38,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),4282.0,176,16.5,Yes,Reject,Rejection Risk Defected,Machine Purchase,11300,53.1
+BATCH-2026-459,2026-07-22 16:20:18,Large Orchard,Chumphon Emerald Orchard,Durian,5406.6,37,18.3,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,21370,108.9
+BATCH-2026-460,2026-07-22 17:54:34,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),3713.2,174,18.2,No,Grade A (Premium Export),Passed,SLA Contract,93100,45.9
+BATCH-2026-461,2026-07-23 14:02:14,Service Startup,"SortHub Thailand Co., Ltd.",Durian,1000.2,40,11.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3420,19.7
+BATCH-2026-462,2026-07-23 17:50:50,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mangosteen,14128.3,226,13.8,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,33750,224.3
+BATCH-2026-463,2026-07-24 11:58:43,Premium Exporter,Lanna Select Fruits Export,Durian,6242.0,45,19.1,No,Grade A (Premium Export),Passed,SLA Contract,85700,118.9
+BATCH-2026-464,2026-07-25 14:08:24,Agricultural Co-op,Rayong Durian Farmers Co-op,Durian,10420.9,36,15.3,No,Grade B (Local Market),Passed,SLA Contract,41700,198.1
+BATCH-2026-465,2026-07-25 15:12:22,Agricultural Co-op,Rayong Durian Farmers Co-op,Mangosteen,4690.8,326,13.7,No,Grade B (Local Market),Passed,SLA Contract,50800,72.9
+BATCH-2026-466,2026-07-27 11:53:31,Premium Exporter,Bangkok Verdant Export,Durian,3097.2,38,18.0,No,Grade A (Premium Export),Passed,Software Subscription,33000,59.0
+BATCH-2026-467,2026-07-27 16:47:38,Large Orchard,Khao Kitchakut Mango Estate,Durian,5609.0,50,16.3,No,Grade A (Premium Export),Passed,SLA Contract,89900,108.3
+BATCH-2026-468,2026-07-28 12:11:54,Large Orchard,Khao Kitchakut Mango Estate,Durian,7743.5,56,16.6,No,Grade A (Premium Export),Passed,SLA Contract,77900,154.3
+BATCH-2026-469,2026-07-28 13:49:27,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mangosteen,10831.8,269,17.7,No,Grade A (Premium Export),Passed,SLA Contract,111700,170.0
+BATCH-2026-470,2026-07-28 15:57:24,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Durian,5000.2,61,16.4,No,Grade A (Premium Export),Passed,Software Subscription,23300,100.7
+BATCH-2026-471,2026-07-28 16:10:39,Large Orchard,Suan Thong Durian Orchard,Durian,4877.7,43,16.6,No,Grade A (Premium Export),Passed,Machine Purchase,13100,95.4
+BATCH-2026-472,2026-07-29 07:35:34,Large Orchard,Chumphon Emerald Orchard,Mangosteen,2029.0,311,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,5620,31.6
+BATCH-2026-473,2026-07-29 13:57:51,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,9741.8,321,13.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,22940,162.5
+BATCH-2026-474,2026-07-30 15:03:59,Premium Exporter,Lanna Select Fruits Export,Durian,7075.4,55,19.0,No,Grade A (Premium Export),Passed,SLA Contract,99100,137.1
+BATCH-2026-475,2026-07-31 14:52:13,Large Orchard,Phrae Sunrise Mango Farm,Mangosteen,5425.0,262,15.7,No,Grade A (Premium Export),Passed,Software Subscription,18200,89.0
+BATCH-2026-476,2026-08-01 14:26:58,Large Orchard,Rayong Golden Garden Orchard,Durian,6366.3,45,13.7,No,Grade B (Local Market),Passed,Software Subscription,24200,126.7
+BATCH-2026-477,2026-08-03 07:49:30,Service Startup,QuickSort Mobile Service,Durian,1990.5,37,12.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,6220,38.9
+BATCH-2026-478,2026-08-03 13:27:03,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Mangosteen,9952.7,253,15.7,No,Grade A (Premium Export),Passed,Software Subscription,28700,162.7
+BATCH-2026-479,2026-08-04 08:31:54,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Mango (Mahachanok),10161.3,261,18.3,No,Grade A (Premium Export),Passed,Machine Purchase,14100,127.0
+BATCH-2026-480,2026-08-04 11:57:42,Premium Exporter,Bangkok Verdant Export,Mangosteen,4718.6,309,17.2,No,Grade A (Premium Export),Passed,Software Subscription,22900,73.2
+BATCH-2026-481,2026-08-04 13:30:09,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),9067.4,172,15.0,No,Grade B (Local Market),Passed,SLA Contract,62700,111.5
+BATCH-2026-482,2026-08-04 14:48:28,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mangosteen,10988.9,295,11.9,No,Grade B (Local Market),Passed,Machine Purchase,12300,174.7
+BATCH-2026-483,2026-08-05 09:07:49,Large Orchard,Uttaradit Premium Orchard,Mango (Mahachanok),3323.0,197,16.8,No,Grade A (Premium Export),Passed,Software Subscription,20700,43.0
+BATCH-2026-484,2026-08-06 07:46:36,Large Orchard,Trat Mangosteen Highland Farm,Mangosteen,6121.6,261,14.8,No,Grade B (Local Market),Passed,Machine Purchase,5700,101.2
+BATCH-2026-485,2026-08-06 10:29:47,Agricultural Co-op,Rayong Durian Farmers Co-op,Mangosteen,4449.6,276,14.3,No,Grade B (Local Market),Passed,SLA Contract,40200,73.1
+BATCH-2026-486,2026-08-06 11:57:16,Service Startup,Harvest2Grade Tech,Mangosteen,1373.0,308,15.7,No,Grade A (Premium Export),Passed,Software Subscription,9900,21.6
+BATCH-2026-487,2026-08-06 13:40:00,Large Orchard,Trat Mangosteen Highland Farm,Mangosteen,4072.7,263,14.8,No,Grade B (Local Market),Passed,Machine Purchase,7000,63.6
+BATCH-2026-488,2026-08-07 17:36:35,Large Orchard,Chumphon Emerald Orchard,Mango (Mahachanok),3379.2,216,16.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,8740,41.4
+BATCH-2026-489,2026-08-08 19:21:37,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,2254.2,50,17.9,No,Grade A (Premium Export),Passed,SLA Contract,114600,44.4
+BATCH-2026-490,2026-08-09 13:40:12,Service Startup,Harvest2Grade Tech,Durian,789.9,47,15.9,No,Grade A (Premium Export),Passed,Software Subscription,7200,15.4
+BATCH-2026-491,2026-08-11 13:42:37,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),2572.0,199,18.2,No,Grade A (Premium Export),Passed,Machine Purchase,6200,32.6
+BATCH-2026-492,2026-08-11 13:43:37,Large Orchard,Rayong Golden Garden Orchard,Mangosteen,5571.8,229,14.6,No,Grade B (Local Market),Passed,Software Subscription,15200,89.0
+BATCH-2026-493,2026-08-11 16:10:31,Large Orchard,Suan Thong Durian Orchard,Mango (Mahachanok),7521.4,180,18.7,No,Grade A (Premium Export),Passed,Machine Purchase,14700,96.3
+BATCH-2026-494,2026-08-12 08:44:51,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,9022.1,249,15.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,27030,147.8
+BATCH-2026-495,2026-08-12 13:30:22,Premium Exporter,Chanthaburi Prime Export,Durian,7864.4,38,16.5,No,Grade A (Premium Export),Passed,Machine Purchase,13500,157.6
+BATCH-2026-496,2026-08-12 13:49:30,Agricultural Co-op,Trat Orchard Alliance Co-op,Durian,12474.5,59,14.0,No,Grade B (Local Market),Passed,Pay-per-use/Rental,45440,246.4
+BATCH-2026-497,2026-08-12 14:50:17,Large Orchard,Suan Thong Durian Orchard,Mangosteen,6721.8,297,15.5,No,Grade A (Premium Export),Passed,Machine Purchase,3600,106.3
+BATCH-2026-498,2026-08-12 15:04:23,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Mangosteen,6938.3,236,17.6,No,Grade A (Premium Export),Passed,Machine Purchase,12600,115.9
+BATCH-2026-499,2026-08-13 08:53:36,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),1312.4,212,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,2370,16.8
+BATCH-2026-500,2026-08-17 10:53:35,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Durian,3729.7,51,15.8,No,Grade A (Premium Export),Passed,Machine Purchase,14400,72.3
+BATCH-2026-501,2026-08-17 15:28:56,Large Orchard,Trat Mangosteen Highland Farm,Durian,6256.2,54,13.8,No,Grade B (Local Market),Passed,Machine Purchase,13600,124.8
+BATCH-2026-502,2026-08-18 08:55:05,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Mango (Mahachanok),7217.2,173,18.3,No,Grade A (Premium Export),Passed,SLA Contract,81600,89.7
+BATCH-2026-503,2026-08-18 12:15:33,Large Orchard,Chumphon Emerald Orchard,Mangosteen,4322.0,222,20.0,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,11560,71.0
+BATCH-2026-504,2026-08-18 13:23:36,Large Orchard,Phrae Sunrise Mango Farm,Durian,5169.6,54,15.3,No,Grade B (Local Market),Passed,Software Subscription,24800,104.6
+BATCH-2026-505,2026-08-18 15:30:42,Large Orchard,Chumphon Emerald Orchard,Durian,3034.2,45,18.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,10800,62.0
+BATCH-2026-506,2026-08-20 10:35:18,Premium Exporter,Thai Royal Harvest International,Mangosteen,11482.7,305,17.3,No,Grade A (Premium Export),Passed,SLA Contract,117700,189.3
+BATCH-2026-507,2026-08-21 07:49:19,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,4712.9,54,15.5,No,Grade A (Premium Export),Passed,SLA Contract,80500,91.5
+BATCH-2026-508,2026-08-21 07:51:48,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,1671.3,286,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,3680,27.4
+BATCH-2026-509,2026-08-21 09:15:56,Agricultural Co-op,Trat Orchard Alliance Co-op,Mangosteen,14558.3,329,16.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,32830,225.1
+BATCH-2026-510,2026-08-21 09:59:33,Service Startup,"AgriGrade Services Co., Ltd.",Mango (Mahachanok),1801.8,180,13.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,4560,22.7
+BATCH-2026-511,2026-08-21 14:42:43,Agricultural Co-op,Loei Garden Fruit Co-op,Durian,3910.3,43,15.9,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,13180,78.9
+BATCH-2026-512,2026-08-22 08:35:20,Service Startup,"AgriGrade Services Co., Ltd.",Mangosteen,482.8,325,16.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1120,8.0
+BATCH-2026-513,2026-08-22 10:03:33,Large Orchard,Rayong Golden Garden Orchard,Mangosteen,4997.0,312,14.4,No,Grade B (Local Market),Passed,Software Subscription,14100,81.4
+BATCH-2026-514,2026-08-23 07:52:45,Large Orchard,Rayong Golden Garden Orchard,Durian,3513.2,57,19.5,No,Grade A (Premium Export),Passed,Software Subscription,22200,70.9
+BATCH-2026-515,2026-08-23 13:41:37,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mangosteen,14713.9,253,11.8,No,Grade B (Local Market),Passed,SLA Contract,35500,235.2
+BATCH-2026-516,2026-08-24 12:16:59,Large Orchard,Uttaradit Premium Orchard,Durian,3700.0,50,17.6,No,Grade A (Premium Export),Passed,Software Subscription,17900,73.8
+BATCH-2026-517,2026-08-25 08:33:25,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mangosteen,9471.3,260,15.0,Yes,Reject,Rejection Risk Defected,SLA Contract,68500,149.9
+BATCH-2026-518,2026-08-25 08:56:07,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,13426.7,221,13.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,29430,209.0
+BATCH-2026-519,2026-08-25 16:54:27,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,9134.4,288,17.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,19190,145.0
+BATCH-2026-520,2026-08-26 13:51:07,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mangosteen,11468.9,245,12.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,33810,178.1
+BATCH-2026-521,2026-08-27 08:30:20,Premium Exporter,Thai Royal Harvest International,Mangosteen,10807.2,268,17.8,No,Grade A (Premium Export),Passed,SLA Contract,75800,178.2
+BATCH-2026-522,2026-08-27 09:43:21,Service Startup,"SortHub Thailand Co., Ltd.",Mangosteen,1475.4,285,13.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,4090,24.2
+BATCH-2026-523,2026-08-27 11:54:58,Agricultural Co-op,Surat Thani Fruit Cooperative,Mangosteen,11819.2,311,17.2,No,Grade A (Premium Export),Passed,Software Subscription,16400,194.0
+BATCH-2026-524,2026-08-27 14:13:38,Agricultural Co-op,Rayong Durian Farmers Co-op,Durian,9953.6,59,15.9,No,Grade A (Premium Export),Passed,SLA Contract,56700,190.8
+BATCH-2026-525,2026-08-27 15:00:36,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),6524.1,243,17.9,No,Grade A (Premium Export),Passed,Machine Purchase,14400,80.4
+BATCH-2026-526,2026-08-27 16:02:30,Service Startup,FruitFlow Logistics Startup,Mango (Mahachanok),1856.7,239,17.6,No,Grade A (Premium Export),Passed,Software Subscription,7400,23.1
+BATCH-2026-527,2026-08-28 07:23:24,Service Startup,FruitFlow Logistics Startup,Mangosteen,279.0,257,14.4,No,Grade B (Local Market),Passed,Software Subscription,10800,4.4
+BATCH-2026-528,2026-08-28 12:12:15,Large Orchard,Suan Thong Durian Orchard,Durian,7368.4,49,15.8,No,Grade A (Premium Export),Passed,Machine Purchase,14500,142.3
+BATCH-2026-529,2026-08-28 14:23:34,Service Startup,QuickSort Mobile Service,Mangosteen,1736.5,243,14.5,No,Grade B (Local Market),Passed,Pay-per-use/Rental,5180,27.3
+BATCH-2026-530,2026-08-28 14:40:28,Large Orchard,Nakhon Si Royal Orchard,Mangosteen,6811.6,327,18.2,No,Grade A (Premium Export),Passed,SLA Contract,48900,112.2
+BATCH-2026-531,2026-08-28 15:42:38,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),625.9,192,15.3,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1430,8.0
+BATCH-2026-532,2026-08-29 12:24:57,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),11652.1,198,16.7,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,28310,150.6
+BATCH-2026-533,2026-08-29 15:49:55,Large Orchard,Suan Thong Durian Orchard,Durian,5956.8,58,15.8,No,Grade A (Premium Export),Passed,Machine Purchase,8400,117.4
+BATCH-2026-534,2026-08-31 13:01:06,Large Orchard,Khao Kitchakut Mango Estate,Mangosteen,1230.3,326,18.2,No,Grade A (Premium Export),Passed,SLA Contract,67500,19.4
+BATCH-2026-535,2026-08-31 14:06:16,Large Orchard,Khao Kitchakut Mango Estate,Durian,1058.9,41,13.1,No,Grade B (Local Market),Passed,SLA Contract,88300,21.0
+BATCH-2026-536,2026-09-01 14:25:48,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Durian,10834.2,48,13.6,No,Grade B (Local Market),Passed,Pay-per-use/Rental,32540,212.8
+BATCH-2026-537,2026-09-01 19:41:36,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),11327.4,189,14.0,No,Grade B (Local Market),Passed,Pay-per-use/Rental,23520,138.8
+BATCH-2026-538,2026-09-02 09:49:02,Large Orchard,Chumphon Emerald Orchard,Durian,3438.0,47,19.7,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,12960,68.7
+BATCH-2026-539,2026-09-02 10:14:00,Service Startup,QuickSort Mobile Service,Mango (Mahachanok),819.7,256,14.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,1840,10.3
+BATCH-2026-540,2026-09-02 10:17:45,Large Orchard,Trat Mangosteen Highland Farm,Mango (Mahachanok),5024.0,233,15.3,No,Grade B (Local Market),Passed,Machine Purchase,12300,65.0
+BATCH-2026-541,2026-09-02 14:26:24,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Durian,10038.3,50,13.7,No,Grade B (Local Market),Passed,Machine Purchase,4900,197.0
+BATCH-2026-542,2026-09-02 20:54:09,Premium Exporter,Lanna Select Fruits Export,Mangosteen,8688.3,297,18.1,No,Grade A (Premium Export),Passed,SLA Contract,89900,135.5
+BATCH-2026-543,2026-09-03 15:57:08,Large Orchard,Chumphon Emerald Orchard,Mangosteen,2623.4,319,17.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,7010,43.5
+BATCH-2026-544,2026-09-04 07:42:34,Agricultural Co-op,Loei Garden Fruit Co-op,Durian,14428.0,43,13.9,No,Grade B (Local Market),Passed,Pay-per-use/Rental,56220,284.5
+BATCH-2026-545,2026-09-04 09:25:38,Large Orchard,Khao Kitchakut Mango Estate,Mango (Mahachanok),1200.1,215,17.2,No,Grade A (Premium Export),Passed,SLA Contract,77100,15.6
+BATCH-2026-546,2026-09-04 09:35:28,Service Startup,FruitFlow Logistics Startup,Durian,343.8,47,13.4,No,Grade B (Local Market),Passed,Software Subscription,9100,6.7
+BATCH-2026-547,2026-09-04 10:01:50,Large Orchard,Uttaradit Premium Orchard,Mangosteen,2794.1,306,17.7,No,Grade A (Premium Export),Passed,Software Subscription,18400,44.5
+BATCH-2026-548,2026-09-04 14:26:00,Agricultural Co-op,Trat Orchard Alliance Co-op,Mango (Mahachanok),4480.5,248,18.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,11200,54.8
+BATCH-2026-549,2026-09-04 17:51:36,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,8575.1,52,15.9,No,Grade A (Premium Export),Passed,SLA Contract,83600,164.0
+BATCH-2026-550,2026-09-05 09:18:16,Service Startup,"SortHub Thailand Co., Ltd.",Mango (Mahachanok),761.7,166,18.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,1510,9.6
+BATCH-2026-551,2026-09-05 10:25:10,Premium Exporter,Bangkok Verdant Export,Mangosteen,11545.2,237,17.2,No,Grade A (Premium Export),Passed,Software Subscription,26200,179.1
+BATCH-2026-552,2026-09-05 16:53:24,Premium Exporter,"Pacific Durian Trading Co., Ltd.",Durian,8908.2,54,16.9,No,Grade A (Premium Export),Passed,Machine Purchase,11000,176.8
+BATCH-2026-553,2026-09-06 12:58:01,Agricultural Co-op,Yala Highland Fruit Co-op,Mangosteen,5110.9,297,15.9,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,12360,82.9
+BATCH-2026-554,2026-09-07 13:13:43,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),10970.9,265,16.0,No,Grade A (Premium Export),Passed,SLA Contract,70300,143.5
+BATCH-2026-555,2026-09-07 17:46:10,Large Orchard,Phrae Sunrise Mango Farm,Mangosteen,7916.0,226,17.5,No,Grade A (Premium Export),Passed,Software Subscription,12200,126.4
+BATCH-2026-556,2026-09-08 09:28:35,Service Startup,Harvest2Grade Tech,Mangosteen,1387.1,308,16.2,No,Grade A (Premium Export),Passed,Software Subscription,7100,21.5
+BATCH-2026-557,2026-09-08 11:56:47,Large Orchard,Rayong Golden Garden Orchard,Mango (Mahachanok),1424.1,213,15.9,No,Grade A (Premium Export),Passed,Software Subscription,23000,18.3
+BATCH-2026-558,2026-09-08 14:36:31,Large Orchard,Nakhon Si Royal Orchard,Durian,2384.1,52,15.7,No,Grade A (Premium Export),Passed,SLA Contract,52100,45.2
+BATCH-2026-559,2026-09-08 15:32:06,Premium Exporter,Chanthaburi Prime Export,Mangosteen,5041.4,232,17.8,No,Grade A (Premium Export),Passed,Machine Purchase,10200,82.8
+BATCH-2026-560,2026-09-09 08:09:54,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Durian,6884.8,38,15.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,24650,135.4
+BATCH-2026-561,2026-09-09 11:12:17,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),3951.3,237,12.1,No,Grade B (Local Market),Passed,Machine Purchase,6000,48.6
+BATCH-2026-562,2026-09-09 15:51:45,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mangosteen,10005.8,292,14.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,21490,166.3
+BATCH-2026-563,2026-09-09 17:26:05,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mango (Mahachanok),11577.5,171,15.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,25480,145.2
+BATCH-2026-564,2026-09-10 10:58:38,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mango (Mahachanok),4726.6,238,12.5,No,Grade B (Local Market),Passed,SLA Contract,52200,61.7
+BATCH-2026-565,2026-09-11 10:05:36,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,1850.5,327,18.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,4380,29.6
+BATCH-2026-566,2026-09-12 13:22:44,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,3190.6,47,17.5,No,Grade A (Premium Export),Passed,SLA Contract,94600,62.5
+BATCH-2026-567,2026-09-12 17:00:07,Agricultural Co-op,Trat Orchard Alliance Co-op,Mango (Mahachanok),10442.8,187,15.0,Yes,Reject,Rejection Risk Defected,Pay-per-use/Rental,24000,128.3
+BATCH-2026-568,2026-09-14 08:54:40,Service Startup,"Orchard-on-Demand Co., Ltd.",Mango (Mahachanok),1778.1,174,18.4,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,3580,23.2
+BATCH-2026-569,2026-09-14 11:25:13,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mango (Mahachanok),14830.6,237,12.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,35370,191.3
+BATCH-2026-570,2026-09-15 13:38:50,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,2951.1,57,16.7,No,Grade A (Premium Export),Passed,SLA Contract,95300,58.3
+BATCH-2026-571,2026-09-15 14:24:17,Agricultural Co-op,Rayong Durian Farmers Co-op,Mangosteen,9642.7,269,16.9,Yes,Reject,Rejection Risk Defected,SLA Contract,51400,157.4
+BATCH-2026-572,2026-09-15 14:28:06,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,10744.4,281,15.4,No,Grade B (Local Market),Passed,Pay-per-use/Rental,27380,166.9
+BATCH-2026-573,2026-09-15 19:56:55,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,7332.6,312,12.8,No,Grade B (Local Market),Passed,Pay-per-use/Rental,18280,114.3
+BATCH-2026-574,2026-09-16 10:33:00,Premium Exporter,Lanna Select Fruits Export,Mango (Mahachanok),2636.8,234,18.9,No,Grade A (Premium Export),Passed,SLA Contract,74200,33.1
+BATCH-2026-575,2026-09-16 11:07:53,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),5829.4,176,16.8,No,Grade A (Premium Export),Passed,Machine Purchase,8000,75.6
+BATCH-2026-576,2026-09-16 14:04:40,Premium Exporter,Chanthaburi Prime Export,Mangosteen,3998.7,242,17.5,No,Grade A (Premium Export),Passed,Machine Purchase,13600,63.3
+BATCH-2026-577,2026-09-17 08:03:52,Large Orchard,Nakhon Si Royal Orchard,Mango (Mahachanok),3199.2,243,14.2,No,Grade B (Local Market),Passed,SLA Contract,87100,41.0
+BATCH-2026-578,2026-09-17 08:39:22,Large Orchard,Nakhon Si Royal Orchard,Durian,3433.3,50,14.5,No,Grade B (Local Market),Passed,SLA Contract,73300,64.9
+BATCH-2026-579,2026-09-17 10:06:35,Agricultural Co-op,Sa Kaeo Agri Union Co-op,Mango (Mahachanok),11231.7,206,13.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,22990,142.2
+BATCH-2026-580,2026-09-17 13:39:29,Premium Exporter,Bangkok Verdant Export,Durian,5827.5,44,16.1,No,Grade A (Premium Export),Passed,Software Subscription,22900,110.6
+BATCH-2026-581,2026-09-17 14:59:00,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),9845.4,179,16.3,No,Grade A (Premium Export),Passed,Software Subscription,14600,127.2
+BATCH-2026-582,2026-09-18 08:41:27,Premium Exporter,"Eastern Premium Fruits Co., Ltd.",Durian,3029.1,53,17.1,No,Grade A (Premium Export),Passed,Software Subscription,31300,57.8
+BATCH-2026-583,2026-09-18 15:42:41,Large Orchard,Rayong Golden Garden Orchard,Mangosteen,6032.3,267,15.5,No,Grade A (Premium Export),Passed,Software Subscription,15700,100.5
+BATCH-2026-584,2026-09-18 15:55:03,Service Startup,FruitFlow Logistics Startup,Mangosteen,235.4,240,14.6,Yes,Reject,Rejection Risk Defected,Software Subscription,8200,3.6
+BATCH-2026-585,2026-09-18 18:35:25,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mangosteen,3133.7,297,16.9,No,Grade A (Premium Export),Passed,SLA Contract,85200,50.4
+BATCH-2026-586,2026-09-19 15:52:00,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mangosteen,6539.6,320,14.9,No,Grade B (Local Market),Passed,Machine Purchase,4200,108.5
+BATCH-2026-587,2026-09-20 13:52:59,Agricultural Co-op,Rayong Durian Farmers Co-op,Mango (Mahachanok),7890.2,215,16.4,No,Grade A (Premium Export),Passed,SLA Contract,38900,96.7
+BATCH-2026-588,2026-09-20 18:59:35,Service Startup,"Orchard-on-Demand Co., Ltd.",Mangosteen,415.0,247,14.7,No,Grade B (Local Market),Passed,Pay-per-use/Rental,850,6.8
+BATCH-2026-589,2026-09-22 18:18:38,Agricultural Co-op,Chanthaburi Fruit Growers Co-op,Mango (Mahachanok),4042.2,250,14.5,No,Grade B (Local Market),Passed,Pay-per-use/Rental,7990,52.8
+BATCH-2026-590,2026-09-22 20:40:34,Agricultural Co-op,Trat Orchard Alliance Co-op,Durian,13125.8,42,11.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,43290,253.3
+BATCH-2026-591,2026-09-23 07:00:12,Service Startup,Harvest2Grade Tech,Durian,340.8,42,17.7,No,Grade A (Premium Export),Passed,Software Subscription,8000,6.8
+BATCH-2026-592,2026-09-23 12:16:33,Large Orchard,Suan Thong Durian Orchard,Mangosteen,1304.7,223,14.5,No,Grade B (Local Market),Passed,Machine Purchase,10800,20.8
+BATCH-2026-593,2026-09-23 14:43:28,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),1317.5,221,12.9,No,Grade B (Local Market),Passed,Software Subscription,9100,16.6
+BATCH-2026-594,2026-09-23 18:22:27,Premium Exporter,"Siam Golden Fruit Export Co., Ltd.",Durian,11173.2,43,18.9,No,Grade A (Premium Export),Passed,SLA Contract,86300,211.7
+BATCH-2026-595,2026-09-24 13:02:25,Premium Exporter,Thai Royal Harvest International,Mango (Mahachanok),2618.1,243,17.9,No,Grade A (Premium Export),Passed,SLA Contract,91900,34.1
+BATCH-2026-596,2026-09-24 14:38:41,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Durian,7876.1,35,16.4,No,Grade A (Premium Export),Passed,Machine Purchase,8000,152.3
+BATCH-2026-597,2026-09-24 14:43:09,Large Orchard,Uttaradit Premium Orchard,Durian,6765.2,45,18.3,No,Grade A (Premium Export),Passed,Software Subscription,14600,137.6
+BATCH-2026-598,2026-09-24 16:05:18,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),14981.5,198,16.6,No,Grade A (Premium Export),Passed,Software Subscription,14300,195.6
+BATCH-2026-599,2026-09-24 16:19:25,Agricultural Co-op,Surat Thani Fruit Cooperative,Mango (Mahachanok),12920.5,216,14.3,No,Grade B (Local Market),Passed,Software Subscription,11900,167.9
+BATCH-2026-600,2026-09-25 15:48:45,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mangosteen,9932.3,328,17.2,No,Grade A (Premium Export),Passed,SLA Contract,45400,162.8
+BATCH-2026-601,2026-09-25 22:31:11,Premium Exporter,Chanthaburi Prime Export,Mango (Mahachanok),6428.2,181,19.0,No,Grade A (Premium Export),Passed,Machine Purchase,3500,78.3
+BATCH-2026-602,2026-09-26 07:15:03,Service Startup,Harvest2Grade Tech,Mango (Mahachanok),451.8,160,16.2,No,Grade A (Premium Export),Passed,Software Subscription,9300,5.5
+BATCH-2026-603,2026-09-26 09:17:16,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Durian,5026.8,45,17.0,No,Grade A (Premium Export),Passed,SLA Contract,100600,102.3
+BATCH-2026-604,2026-09-26 12:58:26,Agricultural Co-op,Phetchabun Mango Farmers Co-op,Mango (Mahachanok),4196.2,258,15.6,No,Grade A (Premium Export),Passed,Machine Purchase,5200,51.6
+BATCH-2026-605,2026-09-26 14:05:36,Agricultural Co-op,Prachinburi Smart Growers Co-op,Mango (Mahachanok),8724.7,231,13.9,No,Grade B (Local Market),Passed,SLA Contract,62700,106.4
+BATCH-2026-606,2026-09-27 13:27:03,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mangosteen,12828.1,276,16.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,34570,201.2
+BATCH-2026-607,2026-09-27 16:18:22,Agricultural Co-op,Trat Orchard Alliance Co-op,Durian,14580.9,53,13.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,55300,293.2
+BATCH-2026-608,2026-09-27 17:10:03,Large Orchard,Rayong Golden Garden Orchard,Durian,5791.3,60,16.2,Yes,Reject,Rejection Risk Defected,Software Subscription,23700,111.9
+BATCH-2026-609,2026-09-28 09:21:45,Premium Exporter,"Gulf Fresh Trading Co., Ltd.",Mango (Mahachanok),4286.3,225,19.1,No,Grade A (Premium Export),Passed,SLA Contract,79700,55.5
+BATCH-2026-610,2026-09-28 09:54:38,Large Orchard,Chumphon Emerald Orchard,Durian,6630.2,47,16.1,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,25800,130.1
+BATCH-2026-611,2026-09-29 09:03:47,Agricultural Co-op,Loei Garden Fruit Co-op,Mangosteen,6768.9,307,15.5,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,17570,111.4
+BATCH-2026-612,2026-09-30 08:31:30,Agricultural Co-op,Nakhon Sawan Mango Co-op,Mangosteen,11550.7,274,14.1,No,Grade B (Local Market),Passed,Pay-per-use/Rental,29530,186.5
+BATCH-2026-613,2026-09-30 10:21:16,Large Orchard,Chumphon Emerald Orchard,Durian,1040.5,51,17.3,No,Grade A (Premium Export),Passed,Pay-per-use/Rental,3130,20.6
+BATCH-2026-614,2026-09-30 16:11:32,Large Orchard,Suan Thong Durian Orchard,Durian,1574.5,48,16.9,No,Grade A (Premium Export),Passed,Machine Purchase,4400,32.0
